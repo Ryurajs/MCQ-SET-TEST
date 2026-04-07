@@ -1,0 +1,752 @@
+[
+  {
+    "question": "Hemoglobin levels are highest in:",
+    "options": ["Morning", "Night", "Afternoon", "Evening"],
+    "correct_answer": "Morning"
+  },
+  {
+    "question": "Regarding sample safety, what must be avoided:",
+    "options": ["To avoid specimen mixing (hazardous), each sample should be carefully labeled.", "The place for receiving or withdrawing the specimens should be separate from the working compartment", "List of investigations and name of the patient can be given separately", "The label should clearly mention the allotted specimen number, the date and time of receipt of specimen"],
+    "correct_answer": "List of investigations and name of the patient can be given separately"
+  },
+  {
+    "question": "How much diluent is needed to prepare 300 mL of a 0.2-M working solution from a 0.8-M stock solution?",
+    "options": ["900 mL", "1200 mL", "225 mL", "75 mL"],
+    "correct_answer": "225 mL"
+  },
+  {
+    "question": "When excess quantity of fat is exerted in the feces, the condition is known as:",
+    "options": ["Haematuria", "Azotaemia", "Steatorrhea", "Proteinaemia"],
+    "correct_answer": "Steatorrhea"
+  },
+  {
+    "question": "Indirect Anti-human Globulin Test (IAT) used in the following situations:",
+    "options": ["Determination of red blood cell phenotype using known antisera (e.g. Du testing)", "All", "Identification of antibody specificity using a panel of red blood cells with known antigenic profile", "Detection of incomplete antibodies to potential donor red blood cells, pregnant women, blood donors"],
+    "correct_answer": "All"
+  },
+  {
+    "question": "The red cells of patients suffering from the Cold Haemagglutinin syndrome characteristically gives positive antiglobulin reactions only with:",
+    "options": ["Anti IgG", "Anti IgM", "Anti complement sera (Anti-C)", "Anti IgA"],
+    "correct_answer": "Anti complement sera (Anti-C)"
+  },
+  {
+    "question": "All are true about T cruzi infection except:",
+    "options": ["Trypomastigote form appear in peripheral smear", "Reservoir of infection is man", "Intermediate host is reduviid bug", "Also called Chagas disease"],
+    "correct_answer": "Reservoir of infection is man"
+  },
+  {
+    "question": "The diagnosis of autoimmune haemolytic anemia (AIHA) depends primarily upon the demonstration of following autoantibodies:",
+    "options": ["All", "None", "Warm antibodies", "Cold antibodies"],
+    "correct_answer": "All"
+  },
+  {
+    "question": "After thawing and pooling cryoprecipitate for transfusion to a patient, the product should be stored at:",
+    "options": ["0°C", "1° to 6 °C", "Room temperature"],
+    "correct_answer": "Room temperature"
+  },
+  {
+    "question": "Cellulose (Scotch) tape test is used to diagnose:",
+    "options": ["Enterobiasis", "Ascariasis", "Ancylostomiasis", "Trichuriasis"],
+    "correct_answer": "Enterobiasis"
+  },
+  {
+    "question": "RBC with irregular, thorny, spiculated membrane surface projections containing bulbous, rounded ends:",
+    "options": ["Hypochromia", "Elliptocytes / ovalocytes", "Hyperchromic", "Acanthocytes"],
+    "correct_answer": "Acanthocytes"
+  },
+  {
+    "question": "Anti-phospholipid antibody is an autoantibody directed against:",
+    "options": ["Both", "Phospholipids", "Phosphatase", "None"],
+    "correct_answer": "Phospholipids"
+  },
+  {
+    "question": "A dry tap may be seen in bone marrow aspirations in all of the following conditions except:",
+    "options": ["Hairy cell leukemia", "Aplastic anemia", "Multiple myeloma", "Primary myelofibrosis"],
+    "correct_answer": "Multiple myeloma"
+  },
+  {
+    "question": "Zollinger-Ellison syndrome is characterized by:",
+    "options": ["Hyperinsulinemia", "Pancreatic islet cell tumors", "Achlorhydria", "Multiple endocrine adenomas"],
+    "correct_answer": "Pancreatic islet cell tumors"
+  },
+  {
+    "question": "Pernicious anemia can be distinguished from folate deficiency by which of the following findings?",
+    "options": ["Mean cell volume", "Presence of autoantibodies to intrinsic factor", "Bone marrow findings", "Presence of hypersegmented neutrophils"],
+    "correct_answer": "Presence of autoantibodies to intrinsic factor"
+  },
+  {
+    "question": "Patients treated with dexamethasone would have plasma cortisol levels of about:",
+    "options": ["70-90 ng/ml", "90-150 ng/ml", "0-50 ng/ml", "50-70 ng/ml"],
+    "correct_answer": "0-50 ng/ml"
+  },
+  {
+    "question": "The most likely cause of increased neutrophils in a pericardial fluid exudate is:",
+    "options": ["Pneumonia", "Tuberculosis", "Bacterial endocarditis", "Cardiac puncture"],
+    "correct_answer": "Bacterial endocarditis"
+  },
+  {
+    "question": "Inactive hyperaemia both venous and arteriolar end of the capillaries are affected whereas in passive hyperaemia only venous blood is dammed back:",
+    "options": ["True", "False"],
+    "correct_answer": "False"
+  },
+  {
+    "question": "In identification of mycobacterial isolates, the Tween 80 test involves which of the following?",
+    "options": ["An enzyme that is able to produce Tween 80 from certain ingredients found in the medium", "The metabolism of niacin to nicotinic acid by enzymatic action", "Testing the isolate for susceptibility to Tween 80", "Lipase that is able to hydrolyze polyoxyethylene sorbitan monooleate into acid and polyoxyethylated sorbitol"],
+    "correct_answer": "Lipase that is able to hydrolyze polyoxyethylene sorbitan monooleate into acid and polyoxyethylated sorbitol"
+  },
+  {
+    "question": "True statement regarding Pneumococcus is:",
+    "options": ["Antibodies against capsule are not protective", "Resistance to antibiotics has not yet been reported", "Capsule is protein in nature", "Virulence is due to polysaccharide capsule"],
+    "correct_answer": "Resistance to antibiotics has not yet been reported"
+  },
+  {
+    "question": "What is the full form of ESR?",
+    "options": ["Erythrocyte Sedimentation Rate", "Erythrocyte Sedimentation ratio", "None", "Erythrocyte Specific Rate"],
+    "correct_answer": "Erythrocyte Sedimentation Rate"
+  },
+  {
+    "question": "What is the normal reference range for VMA?",
+    "options": ["3 mg/24 hr", "20 mg/24 hr", "34 mg/24 hr", "9 mg/24 hr"],
+    "correct_answer": "9 mg/24 hr"
+  },
+  {
+    "question": "In men, the target organs for FSH are:",
+    "options": ["Intestines", "Penis", "Adrenals", "The testes"],
+    "correct_answer": "The testes"
+  },
+  {
+    "question": "Boils are caused by following organism:",
+    "options": ["Klebsiella", "E.coli", "Staphylococcus", "Streptococcus"],
+    "correct_answer": "Staphylococcus"
+  },
+  {
+    "question": "Organism destroyed by refrigerating blood for four days:",
+    "options": ["Plasmodium", "HIV", "Treponema pallidum", "Hepatitis"],
+    "correct_answer": "Treponema pallidum"
+  },
+  {
+    "question": "A 4-year-old male patient presents with a slightly elevated WBC count, and occasional blasts are present on the differential. Flow cytometry is performed with the following results: CD10(+), CD19(+), CD22(+), CD79a(+), TdT(+). Which of the following diagnoses is the most likely?",
+    "options": ["T-cell ALL", "Intermediate B-cell ALL", "Pre-T-cell ALL", "Pre-B-cell ALL"],
+    "correct_answer": "Intermediate B-cell ALL"
+  },
+  {
+    "question": "Which hyperlipoproteinemia is characterized by an increase in cholesterol, an increase in the LDL, normal triglycerides, and the absence of chylomicrons?",
+    "options": ["Primary hypercholesterolemia", "Familial chylomicronemia", "Familial dysbetalipoproteinemia", "Familial hypertriglyceridemia"],
+    "correct_answer": "Primary hypercholesterolemia"
+  },
+  {
+    "question": "A patient in the city of Pune was diagnosed with malaria acquired through a blood transfusion. A discussion of this case by physicians included the following statements. Which statement is correct?",
+    "options": ["The patient should be treated with chloroquine and primaquine", "The infected blood contained sporozoites", "The patient should be treated to eradicate the stages responsible for symptoms", "The blood donor had chloroquine-resistant malaria"],
+    "correct_answer": "The patient should be treated to eradicate the stages responsible for symptoms"
+  },
+  {
+    "question": "IgA has subclasses:",
+    "options": ["4", "6", "2", "3"],
+    "correct_answer": "2"
+  },
+  {
+    "question": "Blood haptoglobin is raised in:",
+    "options": ["Severe liver disease", "Aplastic anemia", "Pregnancy", "Ineffective erythropoiesis"],
+    "correct_answer": "Aplastic anemia"
+  },
+  {
+    "question": "The laboratory and cultural characteristics of bacillary dysentery producing organisms include all except:",
+    "options": ["Gram negative rods in morphology", "Non-gas forming", "Spore formation", "Non-motile"],
+    "correct_answer": "Spore formation"
+  },
+  {
+    "question": "Type I lepra reaction is:",
+    "options": ["Type II", "Type III", "Type I hypersensitivity reaction", "Type IV"],
+    "correct_answer": "Type IV"
+  },
+  {
+    "question": "Polyethylene glycol (PEG) is a water-soluble polymer used as an:",
+    "options": ["Both", "Additive to increase antigen uptake", "Additive to increase antibody uptake", "None"],
+    "correct_answer": "Additive to increase antibody uptake"
+  },
+  {
+    "question": "G banding makes identification of each chromosome possible by its:",
+    "options": ["Characteristic fluorescent bands", "Characteristic multi coloured bands", "Characteristic broken bands", "Characteristic dark and light bands"],
+    "correct_answer": "Characteristic dark and light bands"
+  },
+  {
+    "question": "Healing by scarring occurs when there is abundant fibrin exudate:",
+    "options": ["False", "True"],
+    "correct_answer": "True"
+  },
+  {
+    "question": "Which of the following is a nontreponemal serologic test in which soluble antigen particles are coalesced to form larger particles that are visible as clumps when they are aggregated by antibody?",
+    "options": ["Venereal Disease Research Laboratory (VDRL) test", "Nontreponemal flocculation (NTF)", "Fluorescent treponemal antibody absorption (FTA-ABS) test", "T. pallidum particle agglutination (TP-PA) test"],
+    "correct_answer": "Venereal Disease Research Laboratory (VDRL) test"
+  },
+  {
+    "question": "Being described as a team player falls primarily within which learning domain?",
+    "options": ["Cognitive", "Psychomotor", "Level III", "Affective"],
+    "correct_answer": "Affective"
+  },
+  {
+    "question": "A significant amount of yeast was isolated from a vaginal culture of a patient in the teen clinic of your hospital. It exhibited the following characteristics: Microscopic: Clusters of blastoconidia along pseudohyphae, terminal chlamydoconidia. Positive germ tube. Positive sucrose. Which of the following is the most likely identification?",
+    "options": ["Rhodotorula rubra", "Trichosporon beigelii", "Geotrichum candidum", "Candida albicans"],
+    "correct_answer": "Candida albicans"
+  },
+  {
+    "question": "The detection of the DNA from cytomegalovirus (CMV) and human papillomavirus (HPV) is typically performed using the Hybrid Capture assay. What type of assay is Hybrid Capture?",
+    "options": ["Target amplification assay", "Signal amplification assay", "Reverse transcriptase assay", "Viral load assay"],
+    "correct_answer": "Signal amplification assay"
+  },
+  {
+    "question": "Ova recovered from the stool are routinely used to diagnose infections caused by all of the following except:",
+    "options": ["Ascaris lumbricoides", "Strongyloides stercoralis", "Necator americanus", "Trichuris trichiura"],
+    "correct_answer": "Strongyloides stercoralis"
+  },
+  {
+    "question": "The swarming gram-negative bacillus that can be described as oxidase-negative, nitrate-positive, indole-negative, and H2S-positive is most likely which of the following?",
+    "options": ["Proteus aerogenes", "Proteus mirabilis", "Escherichia coli", "Proteus vulgaris"],
+    "correct_answer": "Proteus mirabilis"
+  },
+  {
+    "question": "Which of the following is NOT caused by a herpesvirus?",
+    "options": ["Shingles", "Genital lesions", "Chronic fatigue syndrome", "Fifth disease"],
+    "correct_answer": "Fifth disease"
+  },
+  {
+    "question": "All are true of T. pallidum except:",
+    "options": ["Motile by peritrichous flagella", "Used for TPI test", "To visualize, dark ground microscopy is used", "Can be maintained in rabbit testis"],
+    "correct_answer": "Used for TPI test"
+  },
+  {
+    "question": "This antibody is produced in people with pneumonia caused by Mycoplasma pneumoniae:",
+    "options": ["anti-D", "anti-H", "anti-M", "anti-I"],
+    "correct_answer": "anti-I"
+  },
+  {
+    "question": "A patient presents to the emergency department with symptoms consistent with a DVT. Which of the following tests is helpful as a screening test for the factor V Leiden mutation?",
+    "options": ["Antithrombin assay", "APCR test", "Prothrombin 20210 molecular test", "Protein S assay"],
+    "correct_answer": "APCR test"
+  },
+  {
+    "question": "An end-point of tube testing other than agglutination that must also be considered a positive reaction is called:",
+    "options": ["Microscopic", "Mixed field", "Clumping", "Hemolysis"],
+    "correct_answer": "Hemolysis"
+  },
+  {
+    "question": "A hospitalized patient developed diarrhea and pseudomembranous colitis within five days after antibiotic therapy was initiated. The severe diarrhea and pseudomembranous colitis occurred as a result of which of the following?",
+    "options": ["Fibrinolysin", "Toxin A and B", "Collagenase", "Lecithinase"],
+    "correct_answer": "Lecithinase"
+  },
+  {
+    "question": "Which of the following has negative stranded RNA?",
+    "options": ["Calicivirus", "Coronavirus", "Reovirus", "Rabies"],
+    "correct_answer": "Rabies"
+  },
+  {
+    "question": "A bacteria acquires a gene for restriction endonuclease by horizontal transfer:",
+    "options": ["Bacteria will die due to methylase deficiency", "Bacteria will be able to destroy host DNA more efficiently", "Bacteria will multiply faster", "Proofreading improved"],
+    "correct_answer": "Bacteria will die due to methylase deficiency"
+  },
+  {
+    "question": "State the important function of hemoglobin:",
+    "options": ["Repairing of cells", "Transportation of O2 from lung to various parts of body", "Transportation of CO2 from lung to various parts of body", "Building of cells"],
+    "correct_answer": "Transportation of O2 from lung to various parts of body"
+  },
+  {
+    "question": "How much blood should be added to 8 mg EDTA vial for good results?",
+    "options": ["3-4 ml", "5-6 ml", "1-2 ml", "6-8 ml"],
+    "correct_answer": "3-4 ml"
+  },
+  {
+    "question": "A serum thyroid panel reveals an increase in total T4, normal TSH, and a normal fT4. What is the most likely cause of these results?",
+    "options": ["Subclinical hyperthyroidism", "Increased thyroxine-binding protein", "Secondary hyperthyroidism", "Subclinical hypothyroidism"],
+    "correct_answer": "Increased thyroxine-binding protein"
+  },
+  {
+    "question": "Hepatitis D coexists with:",
+    "options": ["Hepatitis A", "Hepatitis E", "Hepatitis C", "Hepatitis B"],
+    "correct_answer": "Hepatitis B"
+  },
+  {
+    "question": "H. pylori causes:",
+    "options": ["Chronic non-atrophic gastritis", "Chronic atrophic gastritis", "Lymphomatoid gastritis", "Eosinophilic gastritis"],
+    "correct_answer": "Chronic atrophic gastritis"
+  },
+  {
+    "question": "Who introduced staining techniques and methods of obtaining bacteria in pure culture using solid media?",
+    "options": ["Joseph Lister", "Bruce", "Edward Jenner", "Robert Koch"],
+    "correct_answer": "Robert Koch"
+  },
+  {
+    "question": "Ehrlich's test is used to detect:",
+    "options": ["Urobilinogen", "Bile salt", "Bile pigment", "All"],
+    "correct_answer": "Urobilinogen"
+  },
+  {
+    "question": "The principal indications for resection in pulmonary tuberculosis are:",
+    "options": ["Persistence of bacilli in the sputum in a patient with a localized lesion", "Bleeding associated bronchiectasis", "Need for a positive diagnosis with tuberculosis", "Persistence of cavity and excretion of bacilli"],
+    "correct_answer": "Persistence of cavity and excretion of bacilli"
+  },
+  {
+    "question": "SGPT is found in a variety of tissues but is mainly found in:",
+    "options": ["kidney", "all", "liver", "lungs"],
+    "correct_answer": "liver"
+  },
+  {
+    "question": "Which of the following tests is not related to ACTH?",
+    "options": ["LEGAL'S TEST", "SOFFER TEST", "METYRAPONE TEST", "THORN'S TEST"],
+    "correct_answer": "LEGAL'S TEST"
+  },
+  {
+    "question": "A first morning sputum sample is received for acid fast culture. The specimen is centrifuged, and the sediment is inoculated on two Lowenstein-Jensen slants that are incubated at 35°C with 5% to 10% CO2. After 1 week, the slants show abundant growth over the entire surface. Stains reveal gram-negative bacilli. Which of the following should be done to avoid this problem?",
+    "options": ["Dilute out the sediment before inoculation with saline", "Use a medium specifically designed for the growth of AFB", "Decontaminate the specimen with NALC-sodium hydroxide mixture", "Incubate the tubes at room temperature to retard bacterial growth"],
+    "correct_answer": "Decontaminate the specimen with NALC-sodium hydroxide mixture"
+  },
+  {
+    "question": "Which of the following would be least likely to be associated with eosinophilia?",
+    "options": ["Toxoplasmosis", "Loeffler's endocarditis", "Myxoedema", "Allergic vasculitis"],
+    "correct_answer": "Myxoedema"
+  },
+  {
+    "question": "What are the methods used for ESR estimation?",
+    "options": ["Wintrobe method", "Westergren's method", "Zeta sedimentation rate", "All"],
+    "correct_answer": "All"
+  },
+  {
+    "question": "The viral nucleocapsid always contains which of the following?",
+    "options": ["Viral genome", "Viral envelope", "Virus-encoded glycoprotein", "Virus-encoded polymerase"],
+    "correct_answer": "Viral genome"
+  },
+  {
+    "question": "What are the indications for performing hPRL estimation?",
+    "options": ["When a male complains of impotence, decreased libido", "Pituitary tumour (microadenoma or macroadenoma)", "All", "Female complains of irregular menstrual cycle-amenorrhea"],
+    "correct_answer": "Pituitary tumour (microadenoma or macroadenoma)"
+  },
+  {
+    "question": "For the calculation of karyopyknotic index, how many squamous cells are counted in the Pap stain?",
+    "options": ["200", "300", "100", "400"],
+    "correct_answer": "200"
+  },
+  {
+    "question": "Which of the following conditions is not usually associated with thrombosis?",
+    "options": ["Protein C deficiency", "Factor V Leiden mutation", "Antithrombin deficiency", "Factor V deficiency"],
+    "correct_answer": "Factor V deficiency"
+  },
+  {
+    "question": "Which of the following is characterized by an inversion or deletion of chromosome 16q?",
+    "options": ["M5A", "M5B", "M5", "MAE"],
+    "correct_answer": "MAE"
+  },
+  {
+    "question": "The test for which of the following results should be repeated?",
+    "options": ["Positive blood and protein", "Positive nitrite and leukocyte esterase", "pH 5.0, WBCs, and triple phosphate crystals", "pH 7.0 with ammonium biurate crystals"],
+    "correct_answer": "pH 5.0, WBCs, and triple phosphate crystals"
+  },
+  {
+    "question": "The immunoglobulin typically found in secretions is:",
+    "options": ["IgA", "IgD", "Charcot-Leyden crystals", "IgE"],
+    "correct_answer": "IgA"
+  },
+  {
+    "question": "Large cell immunoblastic lymphoma had the previous history of:",
+    "options": ["Hashimoto's thyroiditis", "Sjogren's syndrome", "AIDS", "All"],
+    "correct_answer": "All"
+  },
+  {
+    "question": "Copper plays an important part in iron metabolism by converting:",
+    "options": ["None", "Ferric state to a ferrous ion", "Both", "Ferrous ions to a ferric state"],
+    "correct_answer": "Ferrous ions to a ferric state"
+  },
+  {
+    "question": "Which are usual etiologic agents causing lung abscess?",
+    "options": ["Klebsiella", "All", "Haemophilus", "Staphylococcus aureus"],
+    "correct_answer": "All"
+  },
+  {
+    "question": "Group O red blood cells are used as a source of commercial screening cells because:",
+    "options": ["Weak subgroups of A react with group O cells", "Anti-D reacts with most group O cells", "Anti-A is detected using group O cells", "ABO antibodies do not react with group O cells"],
+    "correct_answer": "ABO antibodies do not react with group O cells"
+  },
+  {
+    "question": "What is the main difference between agglutination and precipitation reactions?",
+    "options": ["Agglutination occurs when the antigen is particulate", "Precipitation occurs when the antigen is particulate", "Precipitation occurs when both antigen and antibody are particulate", "Agglutination occurs between a soluble antigen and antibody"],
+    "correct_answer": "Agglutination occurs when the antigen is particulate"
+  },
+  {
+    "question": "Which of the following mechanisms accounts for the elevated plasma level of beta-lipoproteins seen in hyperbetalipoproteinemia (Fredrickson's type II hyperlipoproteinemia)?",
+    "options": ["LCAT deficiency", "Apo C-II-activated lipase deficiency", "Elevated insulin found in these patients", "Apo B-100 receptor defect"],
+    "correct_answer": "Apo B-100 receptor defect"
+  },
+  {
+    "question": "Decreased calcium levels are found in:",
+    "options": ["Hypoparathyroidism", "Renal Failure", "Vitamin D deficiency", "Rickets"],
+    "correct_answer": "Renal Failure"
+  },
+  {
+    "question": "Next to HBV, virus implicated in hepatocellular carcinoma:",
+    "options": ["Herpes", "HEV", "HCV", "HAV"],
+    "correct_answer": "HCV"
+  },
+  {
+    "question": "Brucella is pathogenic for humans and animals. Which one of the following statements best characterizes this organism?",
+    "options": ["It secretes two toxins, A and B, in the large bowel during antibiotic therapy", "It has 82 polysaccharide capsular types; capsule is antiphagocytic; type 3 capsule most commonly seen in infected adults", "It has a capsule of polyglutamic acid, which is toxic when injected into rabbits", "It causes spontaneous abortion and has tropism for placental tissue due to the presence of erythritol in allantoic and amniotic fluid"],
+    "correct_answer": "It causes spontaneous abortion and has tropism for placental tissue due to the presence of erythritol in allantoic and amniotic fluid"
+  },
+  {
+    "question": "Which of the following antibodies participates in specific immunity to respiratory viral disease?",
+    "options": ["IgG", "IgA", "IgD", "IgM"],
+    "correct_answer": "IgA"
+  },
+  {
+    "question": "The laboratory finding in a case of acute renal failure will show increase of all of the following except:",
+    "options": ["Creatinine", "Uric acid", "Sodium", "BUN"],
+    "correct_answer": "Sodium"
+  },
+  {
+    "question": "Spores are destroyed by autoclaving at 121°C for _____ minutes.",
+    "options": ["15 minutes", "10 minutes", "30 minutes", "20 minutes"],
+    "correct_answer": "15 minutes"
+  },
+  {
+    "question": "In relation to electrophoresis, which of the following is a lipoprotein stain?",
+    "options": ["Benzidine", "Indoxyl acetate", "Sudan black", "Light green"],
+    "correct_answer": "Sudan black"
+  },
+  {
+    "question": "Metabolic alkalemia is seen in:",
+    "options": ["lactic acidosis", "strenuous exercise", "Sodium bicarbonate administration", "ketoacidosis in starvation and diabetes"],
+    "correct_answer": "Sodium bicarbonate administration"
+  },
+  {
+    "question": "Isolated facial numbness may occur in:",
+    "options": ["Arnold Chiari malformation", "Syringobulbia", "Stilbamidine toxicity", "Motor neuron diseases"],
+    "correct_answer": "Stilbamidine toxicity"
+  },
+  {
+    "question": "Chromosomal study by in situ molecular hybridization has made it possible to:",
+    "options": ["Localize genes on the chromosomes and their transpositions", "Localize mitochondrial deformities", "Localize defects in metabolic pathways", "Localize cytoplasmic deformities"],
+    "correct_answer": "Localize genes on the chromosomes and their transpositions"
+  },
+  {
+    "question": "Sucrose is considered a disaccharide that on hydrolysis yields which of the following sugars?",
+    "options": ["Fructose and glucose", "Glucose", "Maltose and glucose", "Galactose and glucose"],
+    "correct_answer": "Fructose and glucose"
+  },
+  {
+    "question": "Mesophilic bacteria grow best at _____ degrees Celsius.",
+    "options": ["60-70", "15-20", "25-40", "5-10"],
+    "correct_answer": "25-40"
+  },
+  {
+    "question": "The unit of measure for wavelength is:",
+    "options": ["Wavelength", "Nanometer", "Trough", "Crest"],
+    "correct_answer": "Nanometer"
+  },
+  {
+    "question": "In the benzidine test, what colour is eventually produced that implies a positive reaction?",
+    "options": ["Brownish", "Greenish-bluish", "Reddish", "Blackish"],
+    "correct_answer": "Greenish-bluish"
+  },
+  {
+    "question": "In relation to nucleic acid technologies (NAT), what does 'P' stand for in PCR methods?",
+    "options": ["Peroxide", "Photon", "Polymerase", "Polymorphic"],
+    "correct_answer": "Polymerase"
+  },
+  {
+    "question": "Which biochemical test is done to differentiate late lactose fermenting organisms from non-lactose fermenting organisms?",
+    "options": ["Methyl red test", "Nitrate reduction test", "ONPG test", "Oxidase test"],
+    "correct_answer": "ONPG test"
+  },
+  {
+    "question": "In women, the target cells for LH are:",
+    "options": ["Argentaffin cells", "All", "Cells in the developing follicle in the ovary", "Islets of Langerhans"],
+    "correct_answer": "Cells in the developing follicle in the ovary"
+  },
+  {
+    "question": "Which type of jaundice is caused due to liver disorder?",
+    "options": ["Pre-hepatic jaundice", "Post-hepatic jaundice", "All", "Hepatic jaundice"],
+    "correct_answer": "Hepatic jaundice"
+  },
+  {
+    "question": "In normal osmotic fragility, hemolysis begins at which concentration of NaCl?",
+    "options": ["0.4-0.45%", "0.5-0.55%", "0.3-0.35%", "0.6-0.65%"],
+    "correct_answer": "0.5-0.55%"
+  },
+  {
+    "question": "The presence of dysmorphic red blood cells in the urine sediment is indicative of which of the following?",
+    "options": ["A coagulation disorder", "Menstrual contamination", "Urinary tract infection", "Glomerular bleeding"],
+    "correct_answer": "Glomerular bleeding"
+  },
+  {
+    "question": "Ketonuria may indicate:",
+    "options": ["rapid weight loss", "menstruation", "hemolytic anemia", "none"],
+    "correct_answer": "rapid weight loss"
+  },
+  {
+    "question": "Urine urobilinogen is absent in:",
+    "options": ["Drug induced bile duct injury", "Complete bile duct obstruction", "Rotor syndrome", "Impaired liver function"],
+    "correct_answer": "Complete bile duct obstruction"
+  },
+  {
+    "question": "Erythroblastosis fetalis can be prevented by giving which type of globulin to an Rh-negative mother against an Rh-positive infant?",
+    "options": ["Both alpha and beta", "Beta-globulin", "Gamma-globulin", "Alpha-globulin"],
+    "correct_answer": "Gamma-globulin"
+  },
+  {
+    "question": "A 50 g/L solution was diluted 1:5. This diluted sample was then diluted 1:10. What is the concentration of the final solution?",
+    "options": ["1 g/L", "33 g/L", "29 g/L", "0.8 g/L"],
+    "correct_answer": "1 g/L"
+  },
+  {
+    "question": "Cushing's ulcers are:",
+    "options": ["Duodenal ulcers of Cushing's syndrome", "Related to septicemia of diabetes mellitus", "Gastric ulcers associated with intracranial problems", "Chronic nonhealing ulcers of the foot"],
+    "correct_answer": "Gastric ulcers associated with intracranial problems"
+  },
+  {
+    "question": "A 25-year-old man known to have AIDS experiences a gradual onset of malaise and anorexia, proceeding within a few weeks to photophobia, impaired consciousness, and oculofacial palsy. An acid-fast bacterium with trehalose-6,6-dimycolate is isolated. The identity of this organism is which of the following?",
+    "options": ["Mycobacterium tuberculosis", "Mycobacterium fortuitum-chelonae", "Mycobacterium kansasii", "Mycobacterium marinum"],
+    "correct_answer": "Mycobacterium fortuitum-chelonae"
+  },
+  {
+    "question": "In factor deficiencies, normal PT and aPTT results may be recorded until a factor level is:",
+    "options": ["Less than 100%", "Less than 75%", "Less than 50%", "Less than 30%"],
+    "correct_answer": "Less than 30%"
+  },
+  {
+    "question": "The depth factor in WBC counting is:",
+    "options": ["10", "15", "90", "80"],
+    "correct_answer": "10"
+  },
+  {
+    "question": "Erythropoietin is released in response to lowered tissue:",
+    "options": ["Oxyhemoglobin", "None", "Both", "Oxygen tension"],
+    "correct_answer": "Oxygen tension"
+  },
+  {
+    "question": "Raised ascitic fluid amylase levels are seen in:",
+    "options": ["cholecystitis", "CHF", "pancreatitis", "lymphoma"],
+    "correct_answer": "pancreatitis"
+  },
+  {
+    "question": "Phosphomolybdic and phosphotungstic acid are used as the mordant in which type of stain?",
+    "options": ["DAP stain", "AFB stain", "Masson's trichrome stain", "Hematoxylin stain"],
+    "correct_answer": "Masson's trichrome stain"
+  },
+  {
+    "question": "Glycosylated haemoglobin tells about the glucose control of a person for the past _____ days.",
+    "options": ["200", "30", "120", "60"],
+    "correct_answer": "120"
+  },
+  {
+    "question": "Reduction in glomerular filtration rate or renal blood flow is accompanied by a rise in:",
+    "options": ["Creatinine", "All", "Blood urea nitrogen (BUN)", "Non-protein nitrogen (NPN)"],
+    "correct_answer": "All"
+  },
+  {
+    "question": "Blood grouping sera should meet the following requirements:",
+    "options": ["It should not form rouleaux when mixed with red cells", "It should be free of so-called irregular agglutinins", "All", "It should be clear, of normal colour and free of cells or any other particles, not hemolyzed, icteric or chylous and free of complement"],
+    "correct_answer": "It should be clear, of normal colour and free of cells or any other particles, not hemolyzed, icteric or chylous and free of complement"
+  },
+  {
+    "question": "Reagent strip reactions for blood are based on which of the following?",
+    "options": ["Reduction of a chromogen by hemoglobin", "Reaction of hemoglobin with bromothymol blue", "Pseudoperoxidase activity of hemoglobin", "Oxidation of hemoglobin peroxidase"],
+    "correct_answer": "Pseudoperoxidase activity of hemoglobin"
+  },
+  {
+    "question": "Which of the following non-lipid markers can aid in predicting coronary artery diseases?",
+    "options": ["All", "hs-CRP", "Total leukocyte count", "Homocysteine levels"],
+    "correct_answer": "All"
+  },
+  {
+    "question": "After Mallory's phloxine and methylene blue stain, nuclei and bacteria stain:",
+    "options": ["Bright red", "Bright yellow", "Bright rose colour", "Bright blue"],
+    "correct_answer": "Bright rose colour"
+  },
+  {
+    "question": "The cyst in the image below was observed in a stool sample of a child at a daycare center. The ovoid cyst measures approximately 10 x 8 microns. Which organism is the most likely cause of the child's diarrhea?",
+    "options": ["Iodamoeba butschlii", "Cyclospora cayetanensis", "Chilomastix mesnili", "Giardia lamblia"],
+    "correct_answer": "Giardia lamblia"
+  },
+  {
+    "question": "The following organisms are lactose fermenters EXCEPT:",
+    "options": ["Shigella sonnei", "Enterobacter cloacae", "Proteus spp", "E. coli"],
+    "correct_answer": "Proteus spp"
+  },
+  {
+    "question": "Which enzyme is blocked by the presence of aspirin?",
+    "options": ["Cyclooxygenase", "Phospholipase A2", "Protein kinase", "ATPase"],
+    "correct_answer": "Cyclooxygenase"
+  },
+  {
+    "question": "Fixative used to fix a slide before staining:",
+    "options": ["None", "Ethanol", "Acetone-free methyl alcohol", "Isopropyl alcohol"],
+    "correct_answer": "Acetone-free methyl alcohol"
+  },
+  {
+    "question": "Which of the following is not true for benign neoplasm?",
+    "options": ["Never can cause death", "Encapsulated", "Well differentiated with normal mitotic figures", "Progressive growth"],
+    "correct_answer": "Never can cause death"
+  },
+  {
+    "question": "Patients with suspected paroxysmal cold hemoglobinuria can be confirmed by performing which of the following?",
+    "options": ["Direct antiglobulin test (DAT)", "G6PD activity assay", "Donath-Landsteiner test", "Osmotic fragility test"],
+    "correct_answer": "Donath-Landsteiner test"
+  },
+  {
+    "question": "The smallest virus is:",
+    "options": ["Pox virus", "Parvovirus", "Adenovirus", "Rhabdovirus"],
+    "correct_answer": "Parvovirus"
+  },
+  {
+    "question": "In chemical or latent type diabetes:",
+    "options": ["The 2-hour postprandial serum glucose level exceeds 180 mg/dl", "The glucose tolerance test result is normal", "Glucose and ketone bodies are found in the urine", "The fasting blood sugar level exceeds 150 mg/dl"],
+    "correct_answer": "Glucose and ketone bodies are found in the urine"
+  },
+  {
+    "question": "Bile solubility test is done to identify which type of bacteria?",
+    "options": ["Streptococcus viridans", "Streptococcus pneumoniae", "Streptococcus faecalis", "Streptococcus agalactiae"],
+    "correct_answer": "Streptococcus pneumoniae"
+  },
+  {
+    "question": "The reactions of anti-P, Lewis and Kidd blood group antibodies are stronger with:",
+    "options": ["Enzyme treated red blood cells", "Low ionic solution treated red blood cells", "BSA treated red blood cells", "All"],
+    "correct_answer": "Enzyme treated red blood cells"
+  },
+  {
+    "question": "A patient in a rural area of Massachusetts had a 5-cm red rash with an expanding margin on his back. The lesion was obvious for approximately a month and then resolved. Several weeks later, the patient experienced episodes of partial facial paralysis and painful joints. Which of the following is the most likely infectious agent?",
+    "options": ["Borrelia burgdorferi", "Spirillum minor", "Leptospira interrogans", "Borrelia hermsii"],
+    "correct_answer": "Borrelia burgdorferi"
+  },
+  {
+    "question": "Which is the latest investigation that best evaluates GFR?",
+    "options": ["PAH test", "Insulin", "Creatinine clearance test", "Cystatin C"],
+    "correct_answer": "Cystatin C"
+  },
+  {
+    "question": "Which of the following best describes the function of the Rapoport-Luebering pathway?",
+    "options": ["It produces cytochrome b reductase", "It produces 2,3 diphosphoglycerate (2,3 DPG)", "It results in the reduction of glutathione", "It produces ATP to help maintain RBC membrane deformability"],
+    "correct_answer": "It produces 2,3 diphosphoglycerate (2,3 DPG)"
+  },
+  {
+    "question": "Bacterial contamination of stale urine causes alkalinization due to:",
+    "options": ["Loss of glucose", "All", "Both", "Conversion of urea to ammonia"],
+    "correct_answer": "Conversion of urea to ammonia"
+  },
+  {
+    "question": "How do staphylococci spread so easily when infecting the skin?",
+    "options": ["The hemolysins kill white and red blood cells; then protease liquefies skin protein, allowing easy penetration", "They produce hyaluronidase, which hydrolyzes hyaluronic acid present in the intracellular ground substance of connective tissue", "They produce lipase, which melts the fat under the skin, making it easier to spread", "All"],
+    "correct_answer": "They produce hyaluronidase, which hydrolyzes hyaluronic acid present in the intracellular ground substance of connective tissue"
+  },
+  {
+    "question": "Fanconi's anemia is an inherited aplastic anemia with mutations that lead to:",
+    "options": ["RBC enzymatic defects", "Pancreatic issues", "Increased chromosome fragility", "Myelophthisic anemia"],
+    "correct_answer": "Increased chromosome fragility"
+  },
+  {
+    "question": "Hypokalemia is often seen in the following except:",
+    "options": ["Hypoaldosteronism", "Bartter's syndrome", "Non-anion gap acidosis", "Diabetic nephropathy"],
+    "correct_answer": "Bartter's syndrome"
+  },
+  {
+    "question": "In Fontana's silver method for flagella, flagella appear in colour:",
+    "options": ["Light brown", "Red", "Pink", "Black"],
+    "correct_answer": "Light brown"
+  },
+  {
+    "question": "What is the best time to collect blood for malarial smear?",
+    "options": ["Period when the paroxysm starts", "At the beginning or just when the paroxysm is about to start", "Period after the paroxysm", "Period before the paroxysm starts"],
+    "correct_answer": "At the beginning or just when the paroxysm is about to start"
+  },
+  {
+    "question": "Which of the following is not true regarding platelets?",
+    "options": ["Platelets undergo shape change and develop pseudopods when activated", "Platelets are not affected by aspirin", "Platelets have a life span of 7 to 10 days", "Von Willebrand factor serves as a bridge between platelets and collagen"],
+    "correct_answer": "Platelets are not affected by aspirin"
+  },
+  {
+    "question": "In Loeffler's serum, which organism is used as a positive control organism?",
+    "options": ["Proteus mirabilis", "Neisseria gonorrhoeae", "Enterococci", "Corynebacterium"],
+    "correct_answer": "Corynebacterium"
+  },
+  {
+    "question": "How would you prepare a 1/5 dilution of a urine sample?",
+    "options": ["1 part urine + 5 parts diluent", "1 part urine + 4 parts diluent", "1 part urine + 6 parts diluent", "1 part urine + 3 parts diluent"],
+    "correct_answer": "1 part urine + 4 parts diluent"
+  },
+  {
+    "question": "Staphylococcus aureus differs from Staphylococcus epidermidis by:",
+    "options": ["Forms white colonies", "A common cause of UTI", "Coagulase positive", "Non-hemolytic"],
+    "correct_answer": "Coagulase positive"
+  },
+  {
+    "question": "Decreased levels of copper are found in:",
+    "options": ["Nephrotic syndrome", "Malabsorption", "Wilson's disease", "Decreased synthesis of ceruloplasmin"],
+    "correct_answer": "Nephrotic syndrome"
+  },
+  {
+    "question": "Regarding cardiac troponins, which of the following statements is not true?",
+    "options": ["cTnI and cTnT are very useful at ruling out AMI when the value is negative at 10 or more hours from the onset of chest pain", "cTnI appears to be better at ruling in MI than cTnT", "Sensitivity of cardiac troponin tests (cTnI and cTnT) is not dependent on the number of hours since the onset of chest pain", "A normal cTnT or cTnI level at 8 or more hours after the onset of chest pain is strong evidence against the presence of AMI"],
+    "correct_answer": "Sensitivity of cardiac troponin tests (cTnI and cTnT) is not dependent on the number of hours since the onset of chest pain"
+  },
+  {
+    "question": "Sodium replacement is required in all the following sodium deficiency conditions except:",
+    "options": ["Chronic renal failure with renal sodium loss", "Vomiting and diarrhea", "Post prostatectomy", "Diabetic ketoacidosis"],
+    "correct_answer": "Diabetic ketoacidosis"
+  },
+  {
+    "question": "Low MCV is found in:",
+    "options": ["Dimorphic anemias", "Hypochromic anemias", "Macrocytic anemias", "Hereditary ovalocytosis"],
+    "correct_answer": "Hereditary ovalocytosis"
+  },
+  {
+    "question": "Which of the following conditions is not associated with secondary warm autoimmune hemolytic anemia?",
+    "options": ["Viral infections", "CLL", "Rheumatoid arthritis", "Idiopathic onset"],
+    "correct_answer": "Idiopathic onset"
+  },
+  {
+    "question": "Brucella infection is an infectious disease transmitted to man by animals or animal products. The disease may have insidious onset or may present acutely. The following are diagnostic in early disease except:",
+    "options": ["Serologic tests showing IgG agglutinins", "Brucella skin test", "IgG and IgM agglutinins", "Blood culture"],
+    "correct_answer": "IgG and IgM agglutinins"
+  },
+  {
+    "question": "A 3-year-old is diagnosed with bacterial meningitis. Cerebrospinal fluid grows out gram-positive cocci in short chains and diplococci. This is most likely to be which of the following?",
+    "options": ["Staphylococcus aureus", "Salmonella", "Group B Streptococci", "Streptococcus pneumoniae"],
+    "correct_answer": "Group B Streptococci"
+  },
+  {
+    "question": "Serum or plasma proteins are reported to be stable in the sample for:",
+    "options": ["1 day at 2-8°C", "10 days at 2-8°C", "8 days at 2-8°C", "4 days at 2-8°C"],
+    "correct_answer": "8 days at 2-8°C"
+  },
+  {
+    "question": "Which of the following lists the steps of the hemostatic response in the correct order?",
+    "options": ["Injury → fibrinolysis → primary hemostasis → secondary hemostasis", "Fibrinolysis → injury → secondary hemostasis → primary hemostasis", "Injury → secondary hemostasis → primary hemostasis → fibrinolysis", "Injury → primary hemostasis → secondary hemostasis → fibrinolysis"],
+    "correct_answer": "Injury → primary hemostasis → secondary hemostasis → fibrinolysis"
+  },
+  {
+    "question": "Performing the factor requirement test for Haemophilus involves which of the following processes?",
+    "options": ["Growth of the organism in the presence of bacterial species that produce X and V factors as metabolic by-products", "Inoculation of unsupplemented media with a light suspension of the organism and placement of factors X and V disks on the agar surface", "Detecting the presence of enzymes that convert aminolevulinic acid (ALA) into porphyrins", "Inoculation of liquid media, unsupplemented and supplemented with factors X and V"],
+    "correct_answer": "Inoculation of unsupplemented media with a light suspension of the organism and placement of factors X and V disks on the agar surface"
+  },
+  {
+    "question": "A 6-year-old came to the ER complaining of lethargy, nausea, and vomiting for 3-4 days. The mother said the child was urinating frequently, thirsty all the time, and eating a lot. The patient's WBC was 12,500, Hgb 11.2 g/dL, acetone large, glucose 800 mg/dL, pH 7.183, pO2 120 mmHg, pCO2 20.1 mmHg, HCO3 12 mmol/L, and base excess 14.7. What is the patient's diagnosis?",
+    "options": ["hypothyroidism", "hypoglycemia", "diabetic ketoacidosis", "NIDDM"],
+    "correct_answer": "diabetic ketoacidosis"
+  },
+  {
+    "question": "Serum tested positive for HBsAg and anti-HBc IgM. The patient most likely has which of the following?",
+    "options": ["Acute hepatitis B", "Chronic hepatitis B", "Acute hepatitis A", "Acute hepatitis C"],
+    "correct_answer": "Acute hepatitis B"
+  },
+  {
+    "question": "Which of the following is caused by Microsporum species and Trichophyton species, and characterized by erythematous lesions?",
+    "options": ["Onychomycosis", "Ringworm", "Barber's itch", "Jock itch"],
+    "correct_answer": "Barber's itch"
+  },
+  {
+    "question": "Zenker's solution is recommended for tissue pieces stained by:",
+    "options": ["Both", "Silver impregnation", "Trichrome technique", "None"],
+    "correct_answer": "Trichrome technique"
+  },
+  {
+    "question": "Which of the following parasites have migration through the lungs as part of their lifecycle?",
+    "options": ["Giardia lamblia, Wuchereria bancrofti, Brugia malayi", "Toxocara canis, Toxoplasma gondii, Blastocystis hominis", "Enterobius vermicularis, Trichuris trichiura, Trichinella spiralis", "Necator americanus, Ancylostoma duodenale, Strongyloides stercoralis"],
+    "correct_answer": "Necator americanus, Ancylostoma duodenale, Strongyloides stercoralis"
+  }
+]

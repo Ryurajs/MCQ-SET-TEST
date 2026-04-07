@@ -1,0 +1,762 @@
+[
+  {
+    "question": "Normal erythropoiesis implies:",
+    "options": ["Erythrocyte", "Reticulocyte", "Normoblast", "All"],
+    "correct_answer": "All"
+  },
+  {
+    "question": "Who amongst the following is not covered under Consumer Protection Act (CPA)?",
+    "options": ["Biochemist", "Microbiologist", "Pathologist", "Sweeper"],
+    "correct_answer": "Sweeper"
+  },
+  {
+    "question": "Organisms belonging to the genus Neisseria are described as which of the following?",
+    "options": ["Gram-negative bacilli", "Gram-negative coccobacilli", "Gram-positive diplococci", "Gram-negative diplococci"],
+    "correct_answer": "Gram-negative diplococci"
+  },
+  {
+    "question": "Which of the following statements is most accurate regarding infection with parvovirus B19?",
+    "options": ["Parvovirus B19 causes severe anemia because it preferentially infects erythrocyte precursors.", "Parvovirus B19 can cause hydrops fetalis via trans-placental infection of a fetus in a seropositive mother.", "Parvovirus B19 can be diagnosed by detection of viral RNA using PCR or hybridization assays.", "Parvovirus B19 replicates in the host cell nucleus utilizing a virally encoded DNA polymerase to create a double-stranded DNA intermediate."],
+    "correct_answer": "Parvovirus B19 causes severe anemia because it preferentially infects erythrocyte precursors."
+  },
+  {
+    "question": "Which one of the following is transmitted by the bite of a hard Ixodes tick?",
+    "options": ["C. burnetii", "B. (Rochalimaea) henselae", "E. chaffeensis", "C. trachomatis"],
+    "correct_answer": "C. trachomatis"
+  },
+  {
+    "question": "In chronic cor pulmonale we find markedly dilated left ventricle, with thickened wall and hypertrophied trabeculae:",
+    "options": ["False", "True"],
+    "correct_answer": "False"
+  },
+  {
+    "question": "What are the advantages of the fine-needle aspiration biopsy procedure?",
+    "options": ["Can be attempted at multiple sites and repeated if necessary", "Is a quick, convenient, economic and almost painless", "Local anesthesia is not required", "All"],
+    "correct_answer": "All"
+  },
+  {
+    "question": "Larvae of which of the following parasites can be demonstrated in muscle biopsy?",
+    "options": ["Dracunculus medinensis", "Trichinella spiralis", "Brugia malayi", "Wuchereria bancrofti"],
+    "correct_answer": "Trichinella spiralis"
+  },
+  {
+    "question": "Which enzyme catalyzes DNA replication?",
+    "options": ["Endonuclease", "Ligase", "Polymerase", "Reverse transcriptase"],
+    "correct_answer": "Polymerase"
+  },
+  {
+    "question": "Cutaneous larva migrans is not caused by:",
+    "options": ["Gnathostoma spinigerum", "Ancylostoma braziliense", "Microfilaria", "Strongyloides"],
+    "correct_answer": "Microfilaria"
+  },
+  {
+    "question": "What is the normal male adult serum testosterone level?",
+    "options": ["30-120 ng/ml", "600-1800 ng/ml", "900-2200 ng/ml", "300-1200 ng/ml"],
+    "correct_answer": "300-1200 ng/ml"
+  },
+  {
+    "question": "Highest titer of anti-deoxyribonucleoprotein are found in which of the following disease states?",
+    "options": ["Chronic hepatitis", "Dermatomyositis", "SLE", "Scleroderma"],
+    "correct_answer": "SLE"
+  },
+  {
+    "question": "Which bilirubin is water-soluble and non-toxic?",
+    "options": ["Conjugated bilirubin", "Unconjugated bilirubin", "Stercobilinogen", "Indirect bilirubin"],
+    "correct_answer": "Conjugated bilirubin"
+  },
+  {
+    "question": "The laboratory manager's most appropriate approach to performing employee evaluations could best be described as?",
+    "options": ["Threatening", "Positive reinforcement", "Destructive criticism", "Retribution"],
+    "correct_answer": "Positive reinforcement"
+  },
+  {
+    "question": "Thermophilic bacteria grow best at _____ degrees Celsius.",
+    "options": ["60-70", "20-30", "25-40", "15-20"],
+    "correct_answer": "60-70"
+  },
+  {
+    "question": "Most pulmonary emboli are clinically silent and symptomatic obstruction of middle-sized arteries is not associated with pulmonary embolism:",
+    "options": ["False", "True"],
+    "correct_answer": "True"
+  },
+  {
+    "question": "While reporting parasites in the stool, which of the following statements is false?",
+    "options": ["Scanty (rare): 1 to 3", "Moderate number (2+): 10 to 20", "Few (1+): 4 to 10", "Severe 4+: over 100"],
+    "correct_answer": "Severe 4+: over 100"
+  },
+  {
+    "question": "Which confirmatory test would you advise for HIV diagnosis?",
+    "options": ["RIA", "Immunofluorescence", "ELISA", "Western blot"],
+    "correct_answer": "Western blot"
+  },
+  {
+    "question": "Which aerobic Gram-positive rods may contain volutin granules at one pole?",
+    "options": ["Bacteroides", "Clostridium", "Mycobacteria", "Corynebacterium"],
+    "correct_answer": "Corynebacterium"
+  },
+  {
+    "question": "The effect of the extremely complex and variable mixture of proteins, carbohydrates, lipids, and same molecules and salts constituting the sample is known as:",
+    "options": ["Hook effect", "Matrix effect", "Both", "None"],
+    "correct_answer": "Matrix effect"
+  },
+  {
+    "question": "Which is the definitive host of guinea worm?",
+    "options": ["Fish", "Man", "Crab", "Cyclops"],
+    "correct_answer": "Cyclops"
+  },
+  {
+    "question": "A genetic state in which no detectable trait exists is called:",
+    "options": ["Recessive", "Amorph", "Incomplete dominance", "Dominant"],
+    "correct_answer": "Amorph"
+  },
+  {
+    "question": "Necrosis is the morphological changes caused by the degradative action of enzymes in lethally injured cells. Which of the following is not a true necrosis?",
+    "options": ["Caseous necrosis", "Gangrenous necrosis", "Liquefaction necrosis", "Enzymic fat necrosis"],
+    "correct_answer": "Gangrenous necrosis"
+  },
+  {
+    "question": "What is not true regarding semen analysis?",
+    "options": ["Semen can be collected from the vagina after regular intercourse", "The patient can collect a semen sample during sex by withdrawing his penis from his partner just before ejaculation (coitus interruptus)", "Semen may also be collected in a powder/spermicide-free condom", "The most common way to collect semen is by masturbating"],
+    "correct_answer": "Semen can be collected from the vagina after regular intercourse"
+  },
+  {
+    "question": "Which of the following is not true about Campylobacter?",
+    "options": ["Campylobacter jejuni is the most common pathogenic strain in India", "Humans are the chief reservoir", "Implicated as a causative agent of Guillain-Barré syndrome", "Poultry is the main source of infection"],
+    "correct_answer": "Humans are the chief reservoir"
+  },
+  {
+    "question": "What is the arterial blood panic PaO2 level?",
+    "options": ["<5.3 kPa", "<5.8 kPa", "<5.5 kPa", "<5.0 kPa"],
+    "correct_answer": "<5.3 kPa"
+  },
+  {
+    "question": "What is the approximate volume of saliva secreted in 24 hours?",
+    "options": ["1.5 liters", "2.5-4.0 liters", "0.5-1.0 liter", "1.5-2.5 liters"],
+    "correct_answer": "1.5 liters"
+  },
+  {
+    "question": "Match the following analyte with its reference range: Haptoglobin",
+    "options": ["30-200 mg/dL", "70-400 mg/dL", "3-14 mg/dL", "700-1600 mg/dL"],
+    "correct_answer": "30-200 mg/dL"
+  },
+  {
+    "question": "A double-positive cell would express which markers?",
+    "options": ["CD4+CD8-CD3+", "CD4+CD8+CD3+", "CD4-CD8+CD3+", "CD4-CD8-CD3-"],
+    "correct_answer": "CD4+CD8+CD3+"
+  },
+  {
+    "question": "What is the wavelength of blue filter in colorimeter?",
+    "options": ["570-600 nm", "600-680 nm", "420-470 nm", "470-520 nm"],
+    "correct_answer": "420-470 nm"
+  },
+  {
+    "question": "Which are the vectors for Chagas disease?",
+    "options": ["Sandfly", "Bed bugs and ticks", "Tsetse fly", "Anopheles species"],
+    "correct_answer": "Bed bugs and ticks"
+  },
+  {
+    "question": "If the hepatobiliary system is functioning, fecal urobilinogen varies directly with rate of:",
+    "options": ["Type of food consumed", "Rate of red cell hemolysis", "Rate of intestinal peristalsis", "None"],
+    "correct_answer": "Rate of red cell hemolysis"
+  },
+  {
+    "question": "Cocci which are arranged in groups of four are called:",
+    "options": ["Diplococci", "Sarcinae", "Tetrads", "Neisseria"],
+    "correct_answer": "Sarcinae"
+  },
+  {
+    "question": "Fine or coarse dark blue granules dispersed throughout the erythrocyte are called:",
+    "options": ["Howell-Jolly bodies", "Cabot's ring", "Basophilic stippling", "Heinz body"],
+    "correct_answer": "Basophilic stippling"
+  },
+  {
+    "question": "Which of the following is the most sensitive method for the diagnosis of Chlamydia trachomatis?",
+    "options": ["Serologic testing", "Nucleic acid amplification", "Culture", "Cytology"],
+    "correct_answer": "Nucleic acid amplification"
+  },
+  {
+    "question": "What is the normal serum iron level?",
+    "options": ["200 mg/dL", "100 mg/dL", "50 mg/dL", "150 mg/dL"],
+    "correct_answer": "100 mg/dL"
+  },
+  {
+    "question": "For actinomyces, pus or sputum are examined for:",
+    "options": ["None", "Both", "Gram's stain for gram-positive branching filaments", "Sulfur granules"],
+    "correct_answer": "Sulfur granules"
+  },
+  {
+    "question": "A red cell containing granules of non-heme iron is known as:",
+    "options": ["Megaloblasts", "Spherocyte", "Hemosiderin", "Siderocyte"],
+    "correct_answer": "Siderocyte"
+  },
+  {
+    "question": "A mold is isolated in the laboratory that displays a velvety, gray-green colony morphology. On microscopic evaluation, flask-shaped conidiophores arranged in a brush-like formation are seen. The most likely organism is which of the following?",
+    "options": ["Acremonium sp.", "Paecilomyces sp.", "Scopulariopsis sp.", "Penicillium sp."],
+    "correct_answer": "Penicillium sp."
+  },
+  {
+    "question": "Decreased phosphorus level is termed as:",
+    "options": ["None", "Both", "Hypophosphatasia", "Hypophosphatemia"],
+    "correct_answer": "Hypophosphatemia"
+  },
+  {
+    "question": "Which of the following conditions would put an individual at increased risk for serious chronic illness following an infection with parvovirus B19?",
+    "options": ["Immunization with a live measles vaccine", "Coinfection with influenza A virus", "Caring for a pet with canine parvoviral infection", "Having sickle cell disease"],
+    "correct_answer": "Having sickle cell disease"
+  },
+  {
+    "question": "Amniotic fluid embolism is caused by:",
+    "options": ["None", "Fat from vernix caseosa", "Placental tissue", "Infusion of clear amniotic fluid"],
+    "correct_answer": "Fat from vernix caseosa"
+  },
+  {
+    "question": "In which anemia is the amino acid valine substituted for glutamic acid in each of the two beta chains?",
+    "options": ["Thalassemia", "Iron deficiency anemia", "Hemolytic anemia", "Sickle cell anemia"],
+    "correct_answer": "Sickle cell anemia"
+  },
+  {
+    "question": "Urinary casts are formed in which of the following?",
+    "options": ["Proximal and distal tubules", "Distal tubules and collecting ducts", "Distal tubules and loops of Henle", "Proximal tubules and loops of Henle"],
+    "correct_answer": "Distal tubules and collecting ducts"
+  },
+  {
+    "question": "Which alcohol is most frequently used as a disinfectant?",
+    "options": ["Methanol", "Isopropyl alcohol", "Methyl alcohol", "Industrial alcohol"],
+    "correct_answer": "Isopropyl alcohol"
+  },
+  {
+    "question": "Which method provides the best semen sampling?",
+    "options": ["All", "Coitus interruptus", "Masturbation", "Collection in condom"],
+    "correct_answer": "Masturbation"
+  },
+  {
+    "question": "Serotonin is produced by:",
+    "options": ["Argentaffin cells of the liver", "None", "Argentaffin cells of the GI tract", "Both"],
+    "correct_answer": "Argentaffin cells of the GI tract"
+  },
+  {
+    "question": "For lysis of red blood cells to occur after antigen-antibody reaction, which compound is required?",
+    "options": ["Glucose-6-phosphate dehydrogenase (G6PD)", "Complement", "Albumin", "Antihuman globulin (AHG)"],
+    "correct_answer": "Complement"
+  },
+  {
+    "question": "RBC having a larger than normal area of central pallor and appearing to have less than normal pigmentation:",
+    "options": ["Echinocytes/burr cells/crenated", "Elliptocytes/ovalocytes", "Hyperchromia", "Hypochromia"],
+    "correct_answer": "Hypochromia"
+  },
+  {
+    "question": "The eggs in the figure below were found in the urine of a Peace Corps worker who had just returned to the United States after spending 2 years in the Middle East. The eggs measured about 160 mm long x 60 mm wide. Which of the following organisms is the most likely identity?",
+    "options": ["Diphyllobothrium latum", "Schistosoma japonicum", "Schistosoma haematobium", "Schistosoma mansoni"],
+    "correct_answer": "Schistosoma haematobium"
+  },
+  {
+    "question": "In Berthelot reaction of urea estimation, which reagent is used as a catalyst for the reaction?",
+    "options": ["Sodium hypochlorite", "Sodium sulphate", "Sodium nitroprusside", "Sodium hydroxide"],
+    "correct_answer": "Sodium nitroprusside"
+  },
+  {
+    "question": "The term 'hyaline molds' is used to describe which of the following?",
+    "options": ["Molds that have septate hyphae", "Molds that have septate, nonpigmented hyphae", "Molds with intercalated hyaline chlamydoconidia", "The presence of pigmentation within the hyphae or the spores"],
+    "correct_answer": "The presence of pigmentation within the hyphae or the spores"
+  },
+  {
+    "question": "Elevated VMA levels are found in:",
+    "options": ["Pheochromocytoma", "Neuroblastomas", "Ganglioblastomas", "Ganglioneurons"],
+    "correct_answer": "Ganglioneurons"
+  },
+  {
+    "question": "False positive tests for albumin in urine is seen in:",
+    "options": ["Massive penicillin therapy", "Salicylates administration", "Pyuria", "Febrile condition"],
+    "correct_answer": "Massive penicillin therapy"
+  },
+  {
+    "question": "What portion of human stool is constituted by water?",
+    "options": ["80%", "66%", "25%", "33%"],
+    "correct_answer": "66%"
+  },
+  {
+    "question": "Best method of staining bacterial capsule is:",
+    "options": ["Leishman's stain", "India ink preparation", "Gram's stain", "Malachite green"],
+    "correct_answer": "India ink preparation"
+  },
+  {
+    "question": "All of the following cells are derived from CFU-GEMM, common myeloid progenitor cells except:",
+    "options": ["Lymphocytes", "RBCs", "Neutrophils", "Basophils"],
+    "correct_answer": "Lymphocytes"
+  },
+  {
+    "question": "True about varicella is the following except:",
+    "options": ["One stage of rash is seen at one time", "Humans are the only known reservoir", "Children between 5-10 years old are most commonly affected", "Patients are infectious 48 hours before onset of vesicular rash and until all vesicles are crusted"],
+    "correct_answer": "One stage of rash is seen at one time"
+  },
+  {
+    "question": "The HIV virus has _____ strands.",
+    "options": ["1 RNA and 1 DNA strand", "None", "2 DNA strands", "2 RNA strands"],
+    "correct_answer": "2 RNA strands"
+  },
+  {
+    "question": "If a deficiency of this factor is present, the cross-linking of fibrin will not occur.",
+    "options": ["Factor V", "Factor II", "Factor XI", "Factor XIII"],
+    "correct_answer": "Factor XIII"
+  },
+  {
+    "question": "The reference values of apolipoprotein B in normal population are:",
+    "options": ["255-340 mg/dL", "55-140 mg/dL", "155-240 mg/dL", "355-440 mg/dL"],
+    "correct_answer": "55-140 mg/dL"
+  },
+  {
+    "question": "What is the normal volume of pleural fluid on either side?",
+    "options": ["<75 ml", "<100 ml", "<50 ml", "<25 ml"],
+    "correct_answer": "<25 ml"
+  },
+  {
+    "question": "The motility of spermatozoa is reduced, thereby causing male infertility, due to the following intracellular defect:",
+    "options": ["Proliferation of thin actin filaments", "Defects in laying down of intermediate filaments", "Defect of microtubules polymerization", "Defect in organization of microtubules"],
+    "correct_answer": "Defect in organization of microtubules"
+  },
+  {
+    "question": "All are true about precipitation reaction except:",
+    "options": ["All are true", "Kahn test is an example", "Reaction of soluble antigen with antibody", "Very sensitive for detection of antigens"],
+    "correct_answer": "All are true"
+  },
+  {
+    "question": "Which is the correct match?",
+    "options": ["R. akari: Brill-Zinsser disease", "R. prowazekii: Epidemic typhus", "B. quintana: Trench fever", "R. conorii: Scrub typhus"],
+    "correct_answer": "B. quintana: Trench fever"
+  },
+  {
+    "question": "Chronic inflammation always follows acute inflammation:",
+    "options": ["False", "True"],
+    "correct_answer": "False"
+  },
+  {
+    "question": "A 35-year-old man with AIDS presents to the local clinic with complaints of nausea, vomiting, confusion, fever and staggering gait. A lumbar puncture is performed, and an organism with a halo is noted with India ink preparation. What drug would be most beneficial?",
+    "options": ["Amphotericin B + Flucytosine", "Nystatin and ketoconazole", "Ketoconazole alone", "Fluconazole alone"],
+    "correct_answer": "Amphotericin B + Flucytosine"
+  },
+  {
+    "question": "Natural history of an infectious disease contains all these phases EXCEPT:",
+    "options": ["Prodromal", "Acute", "Primary response", "Infection"],
+    "correct_answer": "Primary response"
+  },
+  {
+    "question": "Which blood cell is essential for blood clotting?",
+    "options": ["Red blood cell", "White blood cell", "All", "Platelets"],
+    "correct_answer": "Platelets"
+  },
+  {
+    "question": "Testing for the D antigen was conducted at the IAT phase. A control was included in the testing. Both the patient's red cells and the control tube reacted at 4+. How would you interpret this test?",
+    "options": ["The patient is D positive", "The patient is D negative", "The test is invalid because the control tube was positive", "The test should be repeated and the control tube omitted"],
+    "correct_answer": "The test is invalid because the control tube was positive"
+  },
+  {
+    "question": "This virus produces an erythematous maculopapular rash, low-grade fever, and swollen glands at the back of the head.",
+    "options": ["Q fever", "Typhus", "Rubella", "Rocky Mountain spotted fever"],
+    "correct_answer": "Rubella"
+  },
+  {
+    "question": "Group G consists of the:",
+    "options": ["None", "Shortest metacentric chromosomes", "Longest metacentric chromosomes", "Both"],
+    "correct_answer": "Shortest metacentric chromosomes"
+  },
+  {
+    "question": "Least susceptible to gonococcal infection:",
+    "options": ["Epididymis", "Anterior urethra", "Testis", "Prostate"],
+    "correct_answer": "Epididymis"
+  },
+  {
+    "question": "Psychrophilic bacteria grow best at _____ degrees Celsius.",
+    "options": ["25-40", "5-10", "60-70", "15-20"],
+    "correct_answer": "15-20"
+  },
+  {
+    "question": "What is true about normal solutions?",
+    "options": ["A normal solution contains the gram equivalent weight of a substance per liter of solution", "A normal solution contains the mg equivalent weight of a substance per liter of solution", "None", "A normal solution contains the gram equivalent weight of a substance per 100 cc of solution"],
+    "correct_answer": "A normal solution contains the gram equivalent weight of a substance per liter of solution"
+  },
+  {
+    "question": "Which of the following analytes employs competitive ELISA technique?",
+    "options": ["HCG", "CEA", "AFP", "Free T3"],
+    "correct_answer": "Free T3"
+  },
+  {
+    "question": "IgM is usually increased in:",
+    "options": ["Protein losing syndromes", "Infancy", "Liver disease", "Acquired immunodeficiency"],
+    "correct_answer": "Liver disease"
+  },
+  {
+    "question": "The development of monoclonal antibodies obtained from cultures of cells secreting antibodies is called:",
+    "options": ["Antibioma", "Hybridomas", "Sarcomas", "Plasmacytomas"],
+    "correct_answer": "Hybridomas"
+  },
+  {
+    "question": "What factors can increase hPRL levels?",
+    "options": ["Sleep", "Breast stimulation", "All", "Exercise and stress"],
+    "correct_answer": "All"
+  },
+  {
+    "question": "Cerebrospinal fluid from a spinal tap of a patient complaining of a severe headache, fever, and nuchal rigidity revealed the presence of gram-negative coccobacilli. Further testing revealed growth of the organism on growth factor X and V supplemented chocolate agar, and no hemolysis when grown on blood agar. Which of the following organisms represents the above description?",
+    "options": ["Haemophilus ducreyi", "Bordetella pertussis", "Haemophilus influenzae", "Haemophilus haemolyticus"],
+    "correct_answer": "Haemophilus influenzae"
+  },
+  {
+    "question": "The disorder produced by abnormal hemoglobin is called:",
+    "options": ["Thalassemia", "Hemoglobin syndrome", "Hemoglobinopathies", "Erythrocytosis"],
+    "correct_answer": "Hemoglobinopathies"
+  },
+  {
+    "question": "What is not true about using pLDH as a diagnostic tool to detect malarial infection?",
+    "options": ["It detects dead parasites", "It detects only viable parasites", "Can be used as a screening tool in the blood bank", "Can be used as a screening tool for all malaria species"],
+    "correct_answer": "It detects dead parasites"
+  },
+  {
+    "question": "The Runyon system of classification is based on which of the following?",
+    "options": ["All", "Biochemical characteristics", "Growth rate and colonial pigmentation", "Colony and microscopic morphology"],
+    "correct_answer": "Growth rate and colonial pigmentation"
+  },
+  {
+    "question": "Which disease is caused due to low iodine diet?",
+    "options": ["Acromegaly", "Beri-beri", "Cretinism", "Goitre"],
+    "correct_answer": "Goitre"
+  },
+  {
+    "question": "The correct combination is:",
+    "options": ["Paul Bunnell test: Corynebacterium", "Small pox: Guarneri bodies", "All", "Schick test: Cholera"],
+    "correct_answer": "Small pox: Guarneri bodies"
+  },
+  {
+    "question": "Decreased PTH levels are seen in:",
+    "options": ["Secondary hyperthyroidism", "Primary hypoparathyroidism", "Pseudohypoparathyroidism", "Non-parathyroid hypercalcemia"],
+    "correct_answer": "Non-parathyroid hypercalcemia"
+  },
+  {
+    "question": "Multiple myeloma is a:",
+    "options": ["Lymphoproliferative disease where a single T-cell clone produces decreased antibodies", "Lymphoproliferative disease where a single B-cell clone produces decreased antibodies", "Lymphoproliferative disease where a single B-cell clone produces increased antibodies", "Lymphoproliferative disease where a single T-cell clone produces increased antibodies"],
+    "correct_answer": "Lymphoproliferative disease where a single B-cell clone produces increased antibodies"
+  },
+  {
+    "question": "The change in erythrocyte plasma ratio favours:",
+    "options": ["Low ESR", "None", "Rouleaux formation", "Both"],
+    "correct_answer": "Rouleaux formation"
+  },
+  {
+    "question": "Viruses are responsible for up to _____ of all respiratory infections.",
+    "options": ["20-40%", "50-70%", "70 to 90%", "10-20%"],
+    "correct_answer": "70 to 90%"
+  },
+  {
+    "question": "Increased PCO2 in a patient most commonly results in which of the following primary acid-base abnormalities?",
+    "options": ["Metabolic alkalosis", "Respiratory acidosis", "Respiratory alkalosis", "Metabolic acidosis"],
+    "correct_answer": "Respiratory acidosis"
+  },
+  {
+    "question": "The causes of anemia are:",
+    "options": ["Increased destruction of RBCs", "Impaired red cell formation", "All", "Blood loss"],
+    "correct_answer": "All"
+  },
+  {
+    "question": "The most appropriate interpretation of a Gram-stained smear of a sputum specimen would be which of the following?",
+    "options": ["Few epithelial cells, many PMNs", "More than 25 epithelial cells, probable oral contamination, suggest recollect", "Inadequate specimen, do not culture for anaerobes", "Many cells, many gram-positive cocci in pairs and chains"],
+    "correct_answer": "More than 25 epithelial cells, probable oral contamination, suggest recollect"
+  },
+  {
+    "question": "Which of the following is false about primers?",
+    "options": ["Primers should have a GC percentage of 40% to 60%", "Primers should be at least 100 nucleotides long", "Primers should anneal to a specific target", "Primers are typically 15 to 30 nucleotides long"],
+    "correct_answer": "Primers should be at least 100 nucleotides long"
+  },
+  {
+    "question": "What is the purpose of primer extension?",
+    "options": ["To produce PCR amplicons", "To hybridize the oligonucleotide primers to the single-stranded DNA pieces", "To activate the DNA polymerase to form hybrids with the oligonucleotide primers", "To cut the native DNA into small pieces with a restriction enzyme"],
+    "correct_answer": "To produce PCR amplicons"
+  },
+  {
+    "question": "All of the following statements are true about Pseudomonas except:",
+    "options": ["Commonest cause of infection in burns", "Resistant to common antiseptics", "Non-sporing, gram-negative bacilli", "Facultative anaerobe"],
+    "correct_answer": "Facultative anaerobe"
+  },
+  {
+    "question": "A raised concentration of FSH usually with oligospermia indicates failure of:",
+    "options": ["Prostate gland", "Pituitary gland", "Seminiferous tubules", "Adrenal gland"],
+    "correct_answer": "Seminiferous tubules"
+  },
+  {
+    "question": "Kidney-shaped nucleus is found in:",
+    "options": ["Both", "None", "Monocyte", "Megakaryoblast"],
+    "correct_answer": "Both"
+  },
+  {
+    "question": "Which of the following is false in regard to Hodgkin's disease?",
+    "options": ["Eosinophilia is not uncommon", "Reduced neutrophil count", "Raised absolute lymphocyte count", "Thrombocytopenia is common"],
+    "correct_answer": "Eosinophilia is not uncommon"
+  },
+  {
+    "question": "Leishmania recidivans is seen in infection with:",
+    "options": ["L. mexicana", "L. tropica", "L. donovani", "L. braziliensis"],
+    "correct_answer": "L. tropica"
+  },
+  {
+    "question": "In hepatitis B infection, which is the first detectable viral marker?",
+    "options": ["Anti-HBs Ab", "None", "Anti-HBc Ab", "Both"],
+    "correct_answer": "Anti-HBc Ab"
+  },
+  {
+    "question": "Which of the following can be used for all kinds of fires?",
+    "options": ["CO2 fire extinguisher", "Water", "Fire blanket", "Halon spray"],
+    "correct_answer": "Halon spray"
+  },
+  {
+    "question": "What is the normal reference range for serotonin in urine sample in quantitative method?",
+    "options": ["2-10 mg/24 hr", "Both", "None", "60-100 mEq/24 hr"],
+    "correct_answer": "2-10 mg/24 hr"
+  },
+  {
+    "question": "The following enzymes use a thiamine pyrophosphate prosthetic group except:",
+    "options": ["Alpha-ketoglutarate dehydrogenase", "Transaldolase", "Transketolase", "Pyruvate dehydrogenase"],
+    "correct_answer": "Transaldolase"
+  },
+  {
+    "question": "FSH stimulates the production of _____ in women.",
+    "options": ["C-peptide and insulin", "Adrenaline and noradrenaline", "T3 and T4", "Estrogen and progesterone"],
+    "correct_answer": "Estrogen and progesterone"
+  },
+  {
+    "question": "A peripheral blood film shows hemolysis in all the following except:",
+    "options": ["Severe macrocytic anemia", "Anemia of chronic disorders", "Plasmodium falciparum infection", "Mismatched blood transfusion"],
+    "correct_answer": "Anemia of chronic disorders"
+  },
+  {
+    "question": "A germ tube-negative yeast is isolated in the laboratory. The isolate is found to be negative for urease and unable to assimilate dextrose, maltose, or sucrose. CMT agar morphology showed blastoconidia only. The organism is most likely:",
+    "options": ["Geotrichum candidum", "Candida parapsilosis", "Torulopsis glabrata", "Candida albicans"],
+    "correct_answer": "Torulopsis glabrata"
+  },
+  {
+    "question": "Which of the following is an endogenous yeast-like organism?",
+    "options": ["Cryptococcus neoformans", "Candida albicans", "Aspergillus flavus", "Rhizopus arrhizus"],
+    "correct_answer": "Candida albicans"
+  },
+  {
+    "question": "All are true except:",
+    "options": ["IgG half-life is 23 days", "J piece of IgM is synthesized by lymphoid cells", "IgG is also called millionaire molecule", "IgM is mainly intravascular"],
+    "correct_answer": "IgG is also called millionaire molecule"
+  },
+  {
+    "question": "In which stage of filariasis are microfilaria seen in peripheral blood?",
+    "options": ["Tropical eosinophilia", "Elephantiasis", "Early adenolymphangitic stage", "Late adenolymphangitic stage"],
+    "correct_answer": "Early adenolymphangitic stage"
+  },
+  {
+    "question": "What is indicative of a complete/adequate sputum sample?",
+    "options": ["Squamous cells", "None", "Transitional columnar cells", "Dust cells"],
+    "correct_answer": "Dust cells"
+  },
+  {
+    "question": "Which of the following is not an HIV core protein?",
+    "options": ["p7", "p9", "p24", "gp120"],
+    "correct_answer": "gp120"
+  },
+  {
+    "question": "Trophozoite of which protozoan parasite is large and very actively motile?",
+    "options": ["E. histolytica", "E. coli", "Balantidium coli", "Cryptosporidium"],
+    "correct_answer": "Balantidium coli"
+  },
+  {
+    "question": "True about H. influenzae includes the following except:",
+    "options": ["Most common invasive manifestation caused is meningitis", "Rare below two months of age", "The protein capsule is its main virulence factor", "Needs factor X and V for growth"],
+    "correct_answer": "Rare below two months of age"
+  },
+  {
+    "question": "Request for the analysis of serum acid phosphatase is often done in male patients with suspected:",
+    "options": ["Prostatic cancer", "Malnutrition", "Kidney failure", "Hypothyroidism"],
+    "correct_answer": "Prostatic cancer"
+  },
+  {
+    "question": "Which of the following parasites is transmitted congenitally?",
+    "options": ["Entamoeba histolytica", "Wuchereria bancrofti", "Toxoplasma gondii", "None"],
+    "correct_answer": "Toxoplasma gondii"
+  },
+  {
+    "question": "A mold isolated in the laboratory displays a white cottony macroscopic morphology. On microscopic evaluation, hyaline, septate hyphae, and 'toothbrush'-like conidiophores are seen. The most likely organism is which of the following?",
+    "options": ["Acremonium sp.", "Gliocladium sp.", "Scopulariopsis sp.", "Aspergillus sp."],
+    "correct_answer": "Acremonium sp."
+  },
+  {
+    "question": "The site of a particular nucleotide sequence on a chromosome is referred to as a:",
+    "options": ["Allele", "Genotype", "Polymorphism", "Locus"],
+    "correct_answer": "Locus"
+  },
+  {
+    "question": "Which statement is CORRECT for specimen collection and processing?",
+    "options": ["Stool samples can contain urine but it does not inhibit parasites", "Fresh stool is needed for amoeba and flagellate detection", "Liquid stools are best for detecting amoeba and flagellates", "Stool can be frozen without affecting parasite structure"],
+    "correct_answer": "Fresh stool is needed for amoeba and flagellate detection"
+  },
+  {
+    "question": "Urine odour is aromatic due to the presence of:",
+    "options": ["All", "Volatile fatty acids", "Fatty acid", "HCl in gastric juice"],
+    "correct_answer": "Volatile fatty acids"
+  },
+  {
+    "question": "What are the features of reticulocyte?",
+    "options": ["Diffuse pale basophilia", "All", "Flat non-nucleated", "Disc shaped"],
+    "correct_answer": "All"
+  },
+  {
+    "question": "Neutrophils and monocytes have receptors for which part of the immunoglobulin molecule?",
+    "options": ["Hinge region", "Fab", "Fc", "Variable region"],
+    "correct_answer": "Fc"
+  },
+  {
+    "question": "The most commonly used eyepiece is known as:",
+    "options": ["Huygens eyepiece", "Jenkins lens", "Ross's eyepiece", "Newton's lens"],
+    "correct_answer": "Huygens eyepiece"
+  },
+  {
+    "question": "The receptor through which M-tropic HIV strains bind?",
+    "options": ["CXCR4", "CCR5", "CXCR5"],
+    "correct_answer": "CCR5"
+  },
+  {
+    "question": "The cut-off point for specific gravity between transudate and exudate in pleural fluid is:",
+    "options": ["1.016", "1.010", "1.030", "1.020"],
+    "correct_answer": "1.016"
+  },
+  {
+    "question": "In which condition is there abnormality in the synthesis of polypeptide chain of globin in hemoglobin?",
+    "options": ["Hemoglobinopathies", "Anemia", "Hemoglobinuria", "Leukemia"],
+    "correct_answer": "Hemoglobinopathies"
+  },
+  {
+    "question": "When activating a hydrogen and carbon dioxide generator system used for creating an anaerobic atmosphere, which of the following is an indication that the catalyst and generator envelope are functioning properly?",
+    "options": ["Bubble formation on the surface of the plates", "A change in color of the methylene blue indicator", "The formation of a visible cloud of gas", "A decrease in temperature of the jar"],
+    "correct_answer": "A change in color of the methylene blue indicator"
+  },
+  {
+    "question": "Name intermediate superficial deep mycosis:",
+    "options": ["Actinomyces", "Candida albicans", "Epidermophyton", "Nocardia"],
+    "correct_answer": "Candida albicans"
+  },
+  {
+    "question": "The diagnostic cell type seen in Hodgkin lymphoma is:",
+    "options": ["Binucleate plasma cell", "Bence Jones lymphocyte", "Reed-Sternberg cell", "Burkitt lymphocyte"],
+    "correct_answer": "Reed-Sternberg cell"
+  },
+  {
+    "question": "True statement about rabies is:",
+    "options": ["Symptomatic rabies infection is non-fatal", "Rabies vaccine for human use is live attenuated", "Rabies virus shows no antigenic variation", "Rabies can be diagnosed by immunofluorescence"],
+    "correct_answer": "Rabies can be diagnosed by immunofluorescence"
+  },
+  {
+    "question": "What is the factor for converting blood sugar from SI to conventional units?",
+    "options": ["23.5", "10.8", "18.02", "14.1"],
+    "correct_answer": "18.02"
+  },
+  {
+    "question": "A technician working in the clinical chemistry lab must immediately report to his supervisor a plasma glucose level equal to:",
+    "options": ["80 mg/dl", "60 mg/dl", "70 mg/dl", "50 mg/dl"],
+    "correct_answer": "50 mg/dl"
+  },
+  {
+    "question": "Diabetes mellitus that is characterized by absolute insulin deficiency and acute onset, usually before 25 years of age, should now be referred to as:",
+    "options": ["IDDM", "Type I", "Juvenile diabetes", "Type 1"],
+    "correct_answer": "Type 1"
+  },
+  {
+    "question": "The methods used to detect ketone bodies in urine are:",
+    "options": ["Rothera's test", "Legal's test", "Paper strip", "All"],
+    "correct_answer": "All"
+  },
+  {
+    "question": "An emaciated prisoner began coughing up sputum streaked with blood. Examination of the sputum revealed the presence of acid-fast bacilli. Which of the following would confirm a diagnosis of tuberculosis?",
+    "options": ["Presence of gram-positive pleomorphic organisms", "Rapid growth on Lowenstein-Jensen medium", "Inclusion bodies in the nuclei of macrophages", "Rough, nonpigmented colonies"],
+    "correct_answer": "Inclusion bodies in the nuclei of macrophages"
+  },
+  {
+    "question": "What should be the ideal pH of buffer water used for staining peripheral smears?",
+    "options": ["6.8", "7.5", "8.0", "8.0"],
+    "correct_answer": "6.8"
+  },
+  {
+    "question": "Consumptive coagulopathy syndrome and disseminated coagulation syndrome are synonyms:",
+    "options": ["True", "False"],
+    "correct_answer": "True"
+  },
+  {
+    "question": "A group A, D-negative obstetric patient with anti-D (titer 256) is carrying a fetus who needs an intrauterine transfusion. The blood needed should be:",
+    "options": ["Group O, D-negative whole blood", "Group O, D-negative RBC", "Group A, D-negative whole blood", "Group A, D-negative RBC"],
+    "correct_answer": "Group O, D-negative RBC"
+  },
+  {
+    "question": "Which cell is present as Kupffer cells in the liver and alveolar macrophages of the lungs?",
+    "options": ["Monocyte", "Eosinophil", "Basophil", "Neutrophil"],
+    "correct_answer": "Monocyte"
+  },
+  {
+    "question": "Major organs affected by right-sided heart failure are:",
+    "options": ["Portal system, liver, spleen, and lungs", "Liver, spleen, kidney and the portal system", "Brain, kidney and lungs", "Lungs, portal system and kidneys"],
+    "correct_answer": "Liver, spleen, kidney and the portal system"
+  },
+  {
+    "question": "Which statement is NOT CORRECT for bacteria that cause strep throat?",
+    "options": ["Susceptible to SXT disk", "Catalase negative", "Susceptible to bacitracin", "Colonies are beta hemolytic"],
+    "correct_answer": "Catalase negative"
+  },
+  {
+    "question": "Which species of Staphylococcus gives negative deoxyribonuclease test?",
+    "options": ["Staphylococcus albus", "None", "Staphylococcus saprophyticus", "Staphylococcus aureus"],
+    "correct_answer": "Staphylococcus saprophyticus"
+  },
+  {
+    "question": "What is the ideal pH for growth of most bacteria?",
+    "options": ["6.8-7.2", "7.2-7.6", "7.6-8.0", "8.0-8.4"],
+    "correct_answer": "7.2-7.6"
+  },
+  {
+    "question": "hCG is a:",
+    "options": ["Tetramer", "Monomer", "Polymer", "Dimer"],
+    "correct_answer": "Dimer"
+  },
+  {
+    "question": "Mononuclear cells along with giant cells develop intranuclear eosinophilic inclusion bodies surrounded by a halo - this is a characteristic finding observed in:",
+    "options": ["Herpes simplex", "Measles virus infections", "Parainfluenza", "Cytomegalovirus infections"],
+    "correct_answer": "Herpes simplex"
+  },
+  {
+    "question": "When is hPRL level highest during a female's lifetime?",
+    "options": ["Follicular phase", "First trimester of pregnancy", "Newborn", "Third trimester of pregnancy"],
+    "correct_answer": "Third trimester of pregnancy"
+  },
+  {
+    "question": "A KOH preparation of respiratory secretions of a 78-year-old man reveals large, spherical, thick-walled yeast cells 8 to 15 μm in diameter, usually with a single bud that is connected to the parent cell by a broad base. Which fungus will likely be isolated from the culture?",
+    "options": ["Blastomyces dermatitidis", "Paracoccidioides brasiliensis", "Coccidioides immitis", "Histoplasma capsulatum"],
+    "correct_answer": "Blastomyces dermatitidis"
+  },
+  {
+    "question": "Types of research designs include all the following EXCEPT:",
+    "options": ["Correlational research", "Experimental-comparison designs", "Descriptive research", "Nondescriptive designs"],
+    "correct_answer": "Nondescriptive designs"
+  },
+  {
+    "question": "The most helpful in diagnosis of chlamydial lymphogranuloma venereum is:",
+    "options": ["Intradermal test of Frei", "Demonstration of C.F. antigen", "Demonstration of elementary bodies (Miyagawa granules)", "Clinical presentation"],
+    "correct_answer": "Intradermal test of Frei"
+  },
+  {
+    "question": "The following statement is not true for transmural myocardial infarct:",
+    "options": ["Full thickness of the ventricular wall is involved", "Associated with severe coronary atherosclerosis", "It is at least 2.5 cm in its greater dimensions", "Superimposed thrombosis is not seen"],
+    "correct_answer": "Superimposed thrombosis is not seen"
+  },
+  {
+    "question": "Epidermophyton, Sporothrix and Candida are which type of fungi?",
+    "options": ["Phycomycetes", "Basidiomycetes", "Ascomycetes", "Deuteromycetes"],
+    "correct_answer": "Deuteromycetes"
+  },
+  {
+    "question": "The principal function of the argentaffin cells is to:",
+    "options": ["Regulate sleep", "Regulate smooth muscle contraction and peristalsis", "All", "Regulate temperature"],
+    "correct_answer": "All"
+  },
+  {
+    "question": "Red cells in human peripheral blood vessels:",
+    "options": ["Travel at slower viscosity through venules than through capillaries", "Include about 1% from which the nucleus has not been extruded", "Are distributed in blood to form axial stream", "Include about 1% reticulocytes (cells which have reticular pattern when stained by vital staining)"],
+    "correct_answer": "Include about 1% from which the nucleus has not been extruded"
+  }
+]

@@ -1,0 +1,757 @@
+[
+  {
+    "question": "What are the features of late normoblast?",
+    "options": ["All", "Size 8-10", "Smaller nucleus", "Acidophilic cytoplasm"],
+    "correct_answer": "All"
+  },
+  {
+    "question": "When xylene is used for clearing, and dehydration is not complete then xylene becomes :",
+    "options": ["Green.", "Blue - black.", "Pale blue.", "Milky."],
+    "correct_answer": "Milky."
+  },
+  {
+    "question": "1. Hypertrophy 2. Hyperplasia (physiologic). 3. Pathologic hyperplasia.",
+    "options": ["epidermis following skin abrasion.", "ventricular wall Thickening due to hypertension.", "hormone induced hyperplasia of endometrium.", "female breast at puberty."],
+    "correct_answer": "ventricular wall Thickening due to hypertension."
+  },
+  {
+    "question": "Which is the instrument used to separate liquid contents from solid sediments?",
+    "options": ["Centrifuge.", "Analytical balance.", "Watreath.", "Autoclave."],
+    "correct_answer": "Centrifuge."
+  },
+  {
+    "question": "The image below is of a suspected parasite seen on direct examination of material taken from a corneal scraping in an ophthalmology clinic. The most likely identification of the parasite in this specimen is which of the following?",
+    "options": ["Naegleria sp", "Acanthamoeba sp", "Paragonimus sp.", "Enterobius sp."],
+    "correct_answer": "Acanthamoeba sp"
+  },
+  {
+    "question": "The mucin clot test determines the presence of synovial fluid",
+    "options": ["Fibrinogen", "Glucose", "Protein", "Hyaluronic acid"],
+    "correct_answer": "Hyaluronic acid"
+  },
+  {
+    "question": "Which one of the following statements is not true about the skin rash associated with the infectious diseases named below:",
+    "options": ["Chicken pox rash is most profuse over trunk", "Small pox vesicles are multilocular", "Kolpik's spots in buccal mucosa develop after the appearance of skin rash in measles", "\"strawberry\" tongue is present on the day of appearance of scarlet fever rash"],
+    "correct_answer": "Small pox vesicles are multilocular"
+  },
+  {
+    "question": "Which one of the following procedures is most likely to reduce the incidence of group B streptococcal disease in an infant?",
+    "options": ["Identification of possible high-risk births", "Screening of pregnant females in the last trimester", "Intrapartum antibiotic treatment", "Screening of pregnant females at the first office visit, usually during the first trimester"],
+    "correct_answer": "Intrapartum antibiotic treatment"
+  },
+  {
+    "question": "In rheumatoid arthritis which of the following antibodies is usually decreased ?",
+    "options": ["All are usually increased", "IgG", "IgM", "IgA"],
+    "correct_answer": "All are usually increased"
+  },
+  {
+    "question": "The normal cerebrospinal fluid-to-serum ratio of hCG is:",
+    "options": ["1:120", "1:30", "1:60", "1:250"],
+    "correct_answer": "1:60"
+  },
+  {
+    "question": "Which of the following is the primary virulence factor of Streptococcus pneumoniae?",
+    "options": ["Optochin production", "Polypeptide capsule", "Polysaccharide capsule", "Bile solubility"],
+    "correct_answer": "Bile solubility"
+  },
+  {
+    "question": "A catalase-positive, gram-positive bacillus that is not acid-fast, does not branch, and does not form spores could possibly belong te which group of bacteria?",
+    "options": ["Mycobacterium", "Bacillus", "Corynebacterium", "Nocardia"],
+    "correct_answer": "Corynebacterium"
+  },
+  {
+    "question": "Which of the following would result in a permanent deferral for a whole blood donation?",
+    "options": ["Temperature above 37 °C", "Accidental needle stick 1 year previously; negative for infectious diseases", "Recipient of human growth hormone", "Jaundice as a small child"],
+    "correct_answer": "Recipient of human growth hormone"
+  },
+  {
+    "question": "What is the colour code of heparin",
+    "options": ["Yellow", "Purple", "Green", "Pink"],
+    "correct_answer": "Green"
+  },
+  {
+    "question": "A 3-year-old girl presented to her pediatrician's office with fever, swollen lymph nodes, and a vesicular rash on her chest and upper arms. The vesicles were at various stages of development: some were newly forming, while some were crusted over. Which of the following infectious agents is the most likely cause of this girl's rash?",
+    "options": ["Epstein-Barr virus", "Smallpox", "Varicella-zoster virus", "Parvovirus B19"],
+    "correct_answer": "Varicella-zoster virus"
+  },
+  {
+    "question": "'Visceral larva migraines' is produced by:",
+    "options": ["Brugia malayi", "Enterobius vermicularis", "Toxocara action", "Ancylostoma braziliense"],
+    "correct_answer": "Toxocara action"
+  },
+  {
+    "question": "Hemoglobin from amount of oxygen it absorbs is estimated by:",
+    "options": ["Sahli's method", "Cyanmethemoglobin", "Gasometric method", "Oxyhemoglobin method"],
+    "correct_answer": "Gasometric method"
+  },
+  {
+    "question": "Which of the following ketones is(are) not detected using the reagent strip?",
+    "options": ["B-Hydroxybutyric acid", "Acetone", "Acetoacetic acid", "All are detected using the reagent strip"],
+    "correct_answer": "B-Hydroxybutyric acid"
+  },
+  {
+    "question": "Prothrombin and albumin concentrations evaluate which liver activity?",
+    "options": ["Synthetic", "Enzymatic", "None", "Excretory"],
+    "correct_answer": "Synthetic"
+  },
+  {
+    "question": "Classification of Streptococci into groups A, B, C, D is based on:",
+    "options": ["Presence or absence of capsule", "Colony morphology on Blood agar", "Presence or absence of M protein", "Antigenicity of cell wall carbohydrate"],
+    "correct_answer": "Antigenicity of cell wall carbohydrate"
+  },
+  {
+    "question": "All of the following statements are correct except:",
+    "options": ["The oedema of inflammation is always transudate at first.", "Exudate always indicates infection.", "The pleural effusion of tubercular origin is always a transudate.", "The protein concentration of different edema fluids is of diagnostic significance."],
+    "correct_answer": "The pleural effusion of tubercular origin is always a transudate."
+  },
+  {
+    "question": "Organism which ferment lactose and produce acid will turn the Bromothymol blue to which colour.",
+    "options": ["Yellow", "Green", "Red", "Orange"],
+    "correct_answer": "Yellow"
+  },
+  {
+    "question": "Secondary lymph organs include all the following EXCEPT:",
+    "options": ["thymus", "lymph nodes", "spleen", "lymphoid tissues"],
+    "correct_answer": "thymus"
+  },
+  {
+    "question": "During degradation of Hb, porphyrin portion of hemoglobin is converted into",
+    "options": ["Urobilinogen", "biliverdin", "Haem", "Globin"],
+    "correct_answer": "biliverdin"
+  },
+  {
+    "question": "Ova recovered from the stool are routinely used to diagnose infections caused by all of the following except?",
+    "options": ["Strongyloides stercoralis", "Trichuris trichiura", "Necator americanus", "Ascaris lumbricids"],
+    "correct_answer": "Strongyloides stercoralis"
+  },
+  {
+    "question": "Bacterial genes are transferred by means of all following except:",
+    "options": ["Mutation", "Transduction", "Conjugation", "Transformation"],
+    "correct_answer": "Mutation"
+  },
+  {
+    "question": "Which of the following is an aerobic spore forming bacillus?",
+    "options": ["Clostridium welchii/perfringens", "Bacillus anthracis", "Clostridium tetani", "Clostridium novyi"],
+    "correct_answer": "Bacillus anthracis"
+  },
+  {
+    "question": "Describe myelocyte.",
+    "options": ["N:C ratio reduces", "Cytoplasm is pale pink, chromatin thicker and deeply stained", "All", "Specific neutrophilic granules appear and nucleus shows no nucleoli"],
+    "correct_answer": "All"
+  },
+  {
+    "question": "For best identification of cryptococcus neoformans the specimens of sputum, pus, or CSF should mix with and studied under the microscope",
+    "options": ["Election ink", "Blue ink", "India ink", "Red ink"],
+    "correct_answer": "India ink"
+  },
+  {
+    "question": "Approximately % of the semen volume is derived from the seminal vesicles.",
+    "options": ["60", "80", "40", "20"],
+    "correct_answer": "60"
+  },
+  {
+    "question": "Reticulocyte loses basophilia and become mature erythrocyte in:",
+    "options": ["4-6 days", "10-20 days", "1-2 days", "5-10 days"],
+    "correct_answer": "1-2 days"
+  },
+  {
+    "question": "Which class of Protozoan parasite move by means of cytoplasmic protrusion, the pseudopodia.",
+    "options": ["Class coccidia", "Class ciliate", "Class sarcodina", "Class mastigophora"],
+    "correct_answer": "Class sarcodina"
+  },
+  {
+    "question": "Most common organism associated with cystic fibrosis:",
+    "options": ["Plesiomonas", "Aeromonas", "Burkholderia cepacia", "Pseudomonas aeruginosa (non mucoid)"],
+    "correct_answer": "Burkholderia cepacia"
+  },
+  {
+    "question": "Which of the following statement are true for hyaline change :",
+    "options": ["Hyaline change are always intracellular.", "Hyaline changes of alcoholic liver is due to aggregate of prekeratin.", "\"Russel bodies\" are formed due to hyaline change as a result of deposition of Ag-Ab complexes in intracellular spaces .", "Viral infection may shaw hyaline deposition in cell nucleus"],
+    "correct_answer": "Viral infection may shaw hyaline deposition in cell nucleus"
+  },
+  {
+    "question": "Classical punctate basophilia found in lead poisoning gives pearls' reaction:",
+    "options": ["Negative", "Positive", "Not relate", "Intermediate"],
+    "correct_answer": "Negative"
+  },
+  {
+    "question": "Reverse transcriptase is an enzyme found in retroviruses and heap DNA viruses. Which one of the following is a function of the enzyme reverse transcriptase?",
+    "options": ["DNase activity", "DNA-dependent RNA polymerase activity", "RNA-dependent RNA polymerase activity", "RNA-dependent DNA polymerase activity"],
+    "correct_answer": "RNA-dependent DNA polymerase activity"
+  },
+  {
+    "question": "Which of the following fibrinolytic inhibitors is useful when a2-antiplasmin activity has been exhausted?",
+    "options": ["Thrombin-activatable fibrinolysis inhibitor", "Plasminogen", "a2-Macroglcbulin", "PAI-1"],
+    "correct_answer": "a2-Macroglcbulin"
+  },
+  {
+    "question": "Sterilization by steam under pressure is carried out at temperature between:",
+    "options": ["108°-1470°C", "137°-160°C", "63°-92°C", "37°-45°C"],
+    "correct_answer": "108°-1470°C"
+  },
+  {
+    "question": "What is the other name for ADH ?",
+    "options": ["Norepinephrine", "Melatonin", "Vasopressin", "Epinephrine"],
+    "correct_answer": "Vasopressin"
+  },
+  {
+    "question": "In HIV when a Symptomatic phase .",
+    "options": ["600/mm3", "200/mm3", "400/mm3", "800/mm3"],
+    "correct_answer": "200/mm3"
+  },
+  {
+    "question": "What is the normal TCO2 range?",
+    "options": ["30-40 mEg/liter", "24-30 mEg/liter", "40-50 mEq [liter", "16-24 mEq/liter"],
+    "correct_answer": "24-30 mEg/liter"
+  },
+  {
+    "question": "Which is the first serological test to be positive in syphilis:",
+    "options": ["VDRL", "Kahn test", "FTA-ABS", "TPI"],
+    "correct_answer": "TPI"
+  },
+  {
+    "question": "An obstetrician sees a pregnant patient who was exposed to rubella virus in the eighteenth week of pregnancy. She does not remember getting a rubella vaccination. Which of the following represents the best immediate course of action?",
+    "options": ["Administer rubella vaccine", "Administer rubella immune globulin", "Terminate the pregnancy", "Order a rubella antibody titer to determine immune status"],
+    "correct_answer": "Order a rubella antibody titer to determine immune status"
+  },
+  {
+    "question": "A patient presents to his physician for a lipid profile. The following results are received: HDL%50 mg/dL Total cholesterol%300 mg/dL Triglycerides®%200 mg/dL The calculated LDL cholesterol is:",
+    "options": ["200", "290", "210", "350"],
+    "correct_answer": "210"
+  },
+  {
+    "question": "In the relation of electrophoresis , who of the following is a protein stain?",
+    "options": ["Sudan black", "Indoxyl acetate", "Light green", "O-phenylenediamine"],
+    "correct_answer": "Light green"
+  },
+  {
+    "question": "Which stain divides the bacteria into two groups i.e., Acid-fast and Non Acid-fast",
+    "options": ["Albert stain", "Ziehl-Neelsen Stain", "Gram Stain", "Both"],
+    "correct_answer": "Ziehl-Neelsen Stain"
+  },
+  {
+    "question": "In which of the following disease/s would you find normal glucose levels in the pleural fluid:",
+    "options": ["Septic pleuritis", "SLE", "Rheumatoid pleuritis", "Tuberculosis"],
+    "correct_answer": "Septic pleuritis"
+  },
+  {
+    "question": "The most sensitive test for the diagnosis of herpes simplex (HSV) meningitis in a new-born infant is which of the following?",
+    "options": ["HSV polymerase chain reaction", "HSV culture", "Cerebrospinal fluid (CSF) protein analysis", "HSV IgG antibody"],
+    "correct_answer": "HSV culture"
+  },
+  {
+    "question": "A patient with a viral infection to the ABC virus is found to have a high antibody titer to the ABC virus's RNA, or anti-ABCr. Which of the following is true?",
+    "options": ["MHC class | molecules presented antigen to CD4+ T cells", "MHC class Il molecules presented antigen to CD8+ T cells", "MHC class | molecules presented antigen to CD8+ T cells", "MHC class Il molecules presented antigen to CD4+ T cells"],
+    "correct_answer": "MHC class | molecules presented antigen to CD8+ T cells"
+  },
+  {
+    "question": "Infected tissues demonstrating budding fungal cells are seen in which of the following?",
+    "options": ["Blastomycosis, and dermatophytosis Paracoccidioides,", "Aspergillosis, Mucormycosis, and mycetoma", "Candidiasis, cryptococcosis, and sporotrichosis", "Coccidioidomycosis, chromomycosis, and aspergillosis"],
+    "correct_answer": "Candidiasis, cryptococcosis, and sporotrichosis"
+  },
+  {
+    "question": "Increased levels of glucagon are not found in association with?",
+    "options": ["glucagonoma", "phaeochromocytoma", "uremia", "surgical removal of pancreas"],
+    "correct_answer": "surgical removal of pancreas"
+  },
+  {
+    "question": "Which preservation method is most suitable and the most widely used for subsequent fixed smear preparation?",
+    "options": ["MIF", "Formalin-ethyl acetate", "PVA", "Trichrome"],
+    "correct_answer": "PVA"
+  },
+  {
+    "question": "Proteins are precipitated by salts of which metal?",
+    "options": ["None", "Picric acid.", "Trichloroacetic.", "Both"],
+    "correct_answer": "Both"
+  },
+  {
+    "question": "Complement binds to portion of the antibody.",
+    "options": ["None", "Both", "Fab", "Fc"],
+    "correct_answer": "Fc"
+  },
+  {
+    "question": "Opaque , white , plague like mucosal thickening of vulva that are sometimes scaly and pruritus are caused by:",
+    "options": ["Inflammatory dermatosis.", "Viltiligo.", "Carcinoma in situ.", "All"],
+    "correct_answer": "All"
+  },
+  {
+    "question": "The following statements are true of \"Dengue\", except:",
+    "options": ["There is a rash and saddle-back curve of fever", "Invariably fatal", "Generalized lymphadenopathy is frequent, but hepatosplenomegaly are infrequent", "Usually occurs in epidemics"],
+    "correct_answer": "Invariably fatal"
+  },
+  {
+    "question": "What should not be a part of health-disease- health cycle?",
+    "options": ["Treatment", "Hospital admission", "Mortality", "Lab tests"],
+    "correct_answer": "Mortality"
+  },
+  {
+    "question": "The information in the gene (DNA) is copied to a molecule of MRNA by which process",
+    "options": ["Transcription", "Reduction", "Translation", "Oxidation"],
+    "correct_answer": "Transcription"
+  },
+  {
+    "question": "Gomori's methenamine silver nitrate stain is used for the demonstration of :",
+    "options": ["Fatty acid.", "Starch.", "Glycogen.", "Protein."],
+    "correct_answer": "Glycogen."
+  },
+  {
+    "question": "Cryoglobulinemia is observed in small quantities in all of the following conditions except:",
+    "options": ["Portal cirrhosis", "Chronic lymphocytic leukemia", "Lupus erythematous", "Multiple myeloma"],
+    "correct_answer": "Multiple myeloma"
+  },
+  {
+    "question": "During normal leucocyte counts, the thickness of buffy coat is about",
+    "options": ["25t03 mm", "3.5to4 mm", "0.5to mm", "1.5toc 2 mm"],
+    "correct_answer": "0.5to mm"
+  },
+  {
+    "question": "The step necessary for the functionary factors Il, VII, IX, and X is called the step.",
+    "options": ["Hydrolysis", "y-Carboxylation", "Oxidation", "Cleavage"],
+    "correct_answer": "y-Carboxylation"
+  },
+  {
+    "question": "Under normal circumstances CK MB should be less than % of total CK.",
+    "options": ["40", "20", "25", "6"],
+    "correct_answer": "6"
+  },
+  {
+    "question": "What is Lambert's law ?",
+    "options": ["When a coloured solutions is illuminated with light, its absorbance is directly proportional to the light path when concentration of the solution is constant", "None", "Both", "When a coloured solutions is illuminated with monochromatic light, its absorbance is directly proportional to the concentration of the coloured solutions when light path is constant"],
+    "correct_answer": "When a coloured solutions is illuminated with light, its absorbance is directly proportional to the light path when concentration of the solution is constant"
+  },
+  {
+    "question": "Serum samples collected on a patient with pneumonia demonstrate a rising antibody titer to Legionella. A bronchoalveolar lavage sample was collected and revealed a positive DFA test for Legionella, but no organisms were recovered from this specimen when it was cultured on the appropriate medium and incubated for 2 days at 35°C in C02. Which of the following is the best explanation?",
+    "options": ["Specimen was incubated at the wrong temperature", "Culture was not incubated long enough", "Positive DFA test result is a false positive", "Antibody titer"],
+    "correct_answer": "Culture was not incubated long enough"
+  },
+  {
+    "question": "How many hemoglobin molecules are present in single red blood cell?",
+    "options": ["580 million", "460 million", "280 million", "140 million"],
+    "correct_answer": "280 million"
+  },
+  {
+    "question": "pseudomembranous colitis caused by Clostridium difficile is best confirmed by which of the following laboratory findings?",
+    "options": ["Isolation of C. difficile from stool", "Presence of the toxin in stool", "Gram stain of stool showing many gram-positive bacilli", "Gas production in thioglycolate media"],
+    "correct_answer": "Presence of the toxin in stool"
+  },
+  {
+    "question": "All of the following statements about cholera are true except:",
+    "options": ["Synthesize neuraminidase", "Culture medium is TCBS Agar", "Produces indole and reduces nitrate", "Antibodies to O and H antigens measure carrier state"],
+    "correct_answer": "Antibodies to O and H antigens measure carrier state"
+  },
+  {
+    "question": "Protein part of the enzyme where the coenzyme is attached is called:",
+    "options": ["Apoenzyme.", "Enzyme.", "Halo-enzyme.", "All ."],
+    "correct_answer": "Apoenzyme."
+  },
+  {
+    "question": "Plasmodium falciparum infection of man is characterized by: A. The erythrocytes are increased in size",
+    "options": ["Multiple infection of erythrocytes are seen", "All stages of erythrocytic schizogony are seen in peripheral blood", "Each erythrocytic cycle lasts 72 hours"],
+    "correct_answer": "Each erythrocytic cycle lasts 72 hours"
+  },
+  {
+    "question": "Which virus is the leading cause of croup syndrome? :",
+    "options": ["Rhinovirus", "Adenovirus", "Parainfluenza virus", "Group B coxsackievirus"],
+    "correct_answer": "Parainfluenza virus"
+  },
+  {
+    "question": "Which of the following drugs is the most common cause of the drugs induced lupus:",
+    "options": ["Diphenylhydantain.", "Procainamide .", "Methyldopa .", "Isoniazid."],
+    "correct_answer": "Procainamide ."
+  },
+  {
+    "question": "Benign prostatic hyperplasia is a premalignant condition:",
+    "options": ["True.", "False."],
+    "correct_answer": "False."
+  },
+  {
+    "question": "The volume of red cells expressed as a percentage of the volume of whole blood in sample is known as:",
+    "options": ["Hematocrit", "Hemoglobin", "All", "Erythrocytosis"],
+    "correct_answer": "Hematocrit"
+  },
+  {
+    "question": "FSH STIMULATES the productions of in men's",
+    "options": ["17ketosteriods", "testosterone", "cortisol", "hPRL"],
+    "correct_answer": "testosterone"
+  },
+  {
+    "question": "Live attenuated vaccines are all except:",
+    "options": ["BCG", "Sabin vaccine", "H. Influenzae", "Varicella"],
+    "correct_answer": "Sabin vaccine"
+  },
+  {
+    "question": "Which of the following are true.:",
+    "options": ["Antibodies to islets cells can be seen in all juvenile diabetes.", "Coxsackie virus B plays the most important role in the production of juvenile onset diabetes mellitus.", "HLA-DW3 and DW4 are associated with diabetes mellitus.", "No genetic marker is identified for patients of maturity onset diabetes."],
+    "correct_answer": "HLA-DW3 and DW4 are associated with diabetes mellitus."
+  },
+  {
+    "question": "A questionnaire should have the following characteristics EXCEPT:",
+    "options": ["Double negative questions", "Short and clear questions", "Ask only impartant questions", "Reference points or comparisons are included"],
+    "correct_answer": "Double negative questions"
+  },
+  {
+    "question": "Which is the first serological test to be positive in syphilis:",
+    "options": ["TPIB. VDRL", "FTA-ABS", "Kahn test"],
+    "correct_answer": "TPIB. VDRL"
+  },
+  {
+    "question": "A physician wants to obtain a measure of a patient's iron stores. Which of the following tests would be the most suitable?",
+    "options": ["Serum transferrin (TIBC)", "Transferrin saturation", "Serum ferritin", "Serum iron"],
+    "correct_answer": "Serum ferritin"
+  },
+  {
+    "question": "Which of the following are autoimmune haemolytic anaemias?",
+    "options": ["Warm autoimmune haemolytic anaemia (WAIHA)", "Cold agglutinin syndrome (CAS)", "All", "DAT negative autoimmune haemolytic anaemia."],
+    "correct_answer": "All"
+  },
+  {
+    "question": "Match the following colour codes with the sugars they contain: Glucose",
+    "options": ["mauve", "red", "blue", "green"],
+    "correct_answer": "green"
+  },
+  {
+    "question": "What are the stains used for blood smear study?",
+    "options": ["Wright's stain", "All", "Field's stain", "Giemsa's stain"],
+    "correct_answer": "All"
+  },
+  {
+    "question": "Autoimmune haemolytic anemia develops in 5-10 per cent of patients with this leukemia",
+    "options": ["Acute lymphocytic leukemia (ALL)", "Chronic lymphatic leukemia (CLL)", "Acute myelocytic leukemia (AML)", "Chronic myeloid leukemia (CML)"],
+    "correct_answer": "Chronic lymphatic leukemia (CLL)"
+  },
+  {
+    "question": "What is the normal seminal fructose level is :",
+    "options": ["800 milligrams (mg) of fructose per 100 milliliters(ml) of ejaculate", "1000 milligrams (mg) of fructose per 100 milliliters (mL)of ejaculate", "500 milligrams (Mg) of fructose per 100 milliliters (ML)of ejaculate", "300 milligrams (Mg) of fructose per 100 milliliters (mL)of ejaculate"],
+    "correct_answer": "300 milligrams (Mg) of fructose per 100 milliliters (mL)of ejaculate"
+  },
+  {
+    "question": "The presence of large, spindle-shaped, thick, rough-walled macroconidia containing 4 to 15 septa is characteristic of genus:",
+    "options": ["Epidermophyton", "None", "Microsporum", "Trichophyton"],
+    "correct_answer": "Microsporum"
+  },
+  {
+    "question": "Of the following which one is not an objective quality?",
+    "options": ["Achromatic", "Apo A", "Fluorite (Fl)", "Apachromatic"],
+    "correct_answer": "Apo A"
+  },
+  {
+    "question": "HIV virus was first discovered in the year",
+    "options": ["1961", "1981", "1991", "1971"],
+    "correct_answer": "1981"
+  },
+  {
+    "question": "Immature blood cells may be found in pleural fluid in:",
+    "options": ["SLE", "Asthma", "Myeloid metaplasia", "Traumatic effusions"],
+    "correct_answer": "Myeloid metaplasia"
+  },
+  {
+    "question": "How do sickle cells ar spherocytes interfere with the erythrocyte sedimentation rate (ESR)?",
+    "options": ["Encourage rouleaux formation, so falsely increase", "Decrease plasma viscosity, so falsely decrease", "Agglutinate and increase red cell mass, so falsely increase", "Prevent rouleaux formation, so falsely decrease"],
+    "correct_answer": "Prevent rouleaux formation, so falsely decrease"
+  },
+  {
+    "question": "Campylobacter pyloris is seen in the following conditions except:",
+    "options": ["Crohn's disease.", "Non ulcerous dyspepsia", "Antral gastritis.", "Duodenal ulcer."],
+    "correct_answer": "Crohn's disease."
+  },
+  {
+    "question": "The hallmark of proliferative phase is mitotic activity and basal vacuolation of the columnar epithelium of the glands:",
+    "options": ["True.", "False."],
+    "correct_answer": "False."
+  },
+  {
+    "question": "HIV patients complaining of persistent diarrhoea shows acid fast cyst in stool. What is the possible organism?",
+    "options": ["Microsporidium", "Entamoeba histolytica", "Isospora", "Giardiasis"],
+    "correct_answer": "Isospora"
+  },
+  {
+    "question": "Which of the following is not a 'heterophile reaction\":",
+    "options": ["Cold agglutinin test", "Well Felix test", "Frei's test", "Paul Bunnell test"],
+    "correct_answer": "Frei's test"
+  },
+  {
+    "question": "A transplant patient taking high levels of immunosuppressive drugs becomes infected with EBV and develops a lymphoma. The dosage of immunosuppressive drugs given to the patient is subsequently decreased, and the tumor regresses. Which of the following properties of EBV infection is related to the patient's tumor development?",
+    "options": ["Increased white blood cell count", "Production of heterophile antibodies", "Immortalization of B cells", "Presence of atypical lymphocytes"],
+    "correct_answer": "Immortalization of B cells"
+  },
+  {
+    "question": "For microscopic study of reticulin and collagen which method is used ?",
+    "options": ["Acridine orange fluorescence method.", "Cresyl fast violent acephala method", "Silver impregnation method.", "Hematoxylin method."],
+    "correct_answer": "Silver impregnation method."
+  },
+  {
+    "question": "Reticulocyte loses basophilia and become mature erythrocyte in:",
+    "options": ["5-10 days", "4-6 days", "10-20 days", "1-2 days"],
+    "correct_answer": "1-2 days"
+  },
+  {
+    "question": "Culture media useful for chlamydia is:",
+    "options": ["Sabouraud's medium", "Campy BAP medium", "McCoy cell culture", "Mcleod's medium"],
+    "correct_answer": "McCoy cell culture"
+  },
+  {
+    "question": "In an indirect immunofluorescent antibody test for CMV antibodies, the conjugated antibody used for visualizing is:",
+    "options": ["Antihuman globulin conjugated to an enzyme", "Anti-CMV antibody conjugated to a fluorescent dye", "CMV virus conjugated to a fluorescent dye", "Antihuman globulin conjugated to a fluorescent dye"],
+    "correct_answer": "Antihuman globulin conjugated to a fluorescent dye"
+  },
+  {
+    "question": "A 68-year-old woman visited her physician with reports of fatigue and weakness. A CBC was ordered, and the patient's results were as follows: RBC 2.50— 1012/L Hct 18.8% MCH 24.8 pg Hgb 6.2 g/dL MCV 75.2 fL MCHC 33% Which of the following would be a plausible diagnosis for this patient?",
+    "options": ["Hemochromatosis", "Anemia of chronic inflammation", "Vitamin B12 deficiency", "Iron-deficiency anemia"],
+    "correct_answer": "Iron-deficiency anemia"
+  },
+  {
+    "question": "By adding serum, eggs, etc. to basic media one gets: A. Enrichment media",
+    "options": ["Indicator media", "Differential media", "Selective media"],
+    "correct_answer": "Differential media"
+  },
+  {
+    "question": "What is the normal reference range of the total T4 in adults .",
+    "options": ["15.4-18.6ug/d|", "18.9-21.6ug/dI", "4.4-11.6 ug/dl", "11.4-15.6ug/dI"],
+    "correct_answer": "4.4-11.6 ug/dl"
+  },
+  {
+    "question": "Platelets made from a single whole blood donation should contain which of the following?",
+    "options": ["5.5°1010 platelets in 90% of samples", "3.3°109 platelets in 75% of samples", "3°1011 platelets in 90% of samples", "10°1010 platelets in 75% of samples"],
+    "correct_answer": "5.5°1010 platelets in 90% of samples"
+  },
+  {
+    "question": "The most important antigen of pneumococcus is the type specific capsular polysaccharide and is specific soluble substance (SSS). Pneumococci contain other antigen includes nucleoprotein deep inside the cell wall and somatic 'C' carbohydrate antigens capsular polysaccharide cannot be demonstrated by CIEOP in:",
+    "options": ["Urine", "Blood", "Pleural fluid", "CS."],
+    "correct_answer": "Pleural fluid"
+  },
+  {
+    "question": "Of the following, Enterobacteriaceae does not belong to",
+    "options": ["Escherichia", "Pseudomonas", "Salmonella", "Proteus"],
+    "correct_answer": "Pseudomonas"
+  },
+  {
+    "question": "Nutrient broth +---% glucose makes glucose broth",
+    "options": ["l", "10", "5", "15"],
+    "correct_answer": "l"
+  },
+  {
+    "question": "Which of the following is measured using glutamate dehydrogenase and is a measure of advanced stages, poor prognosis, and coma in liver disease?",
+    "options": ["Unconjugated bilirubin", "Urea", "Ammonia", "Total bilirubin"],
+    "correct_answer": "Ammonia"
+  },
+  {
+    "question": "The odour of the human stools results from:",
+    "options": ["Indole and skatole produced by bacteria from tryptophan.", "Bile salts", "Intestinal mucous and exfoliated cells.", "Pancreatic juices"],
+    "correct_answer": "Indole and skatole produced by bacteria from tryptophan."
+  },
+  {
+    "question": "What is the normal liquefaction time of seminal fluid?",
+    "options": ["50-60 minutes.", "70-80 minutes.", "40-45 minutes.", "10-30 minutes."],
+    "correct_answer": "10-30 minutes."
+  },
+  {
+    "question": "Which of the following statement is false in diagnosis of acute myeloid leukemia:",
+    "options": ["Negative peroxidase, sudan and chloroacetate esterase reactions", "Blasts with few or no granules", "Auer rods+ black", "Hypergranular promyelocytes"],
+    "correct_answer": "Negative peroxidase, sudan and chloroacetate esterase reactions"
+  },
+  {
+    "question": "All are member of the Family Enterobacteriaceae are EXCEPT:",
+    "options": ["Yersinia pestis", "Klebsiella pneumoniae", "Campylobacter jejuni", "Pseudomonas aeruginosa"],
+    "correct_answer": "Campylobacter jejuni"
+  },
+  {
+    "question": "Hot air oven is used for sterilization of all of the following except:",
+    "options": ["Glassware", "Liquid paraffin", "Rubber tubing", "Fat"],
+    "correct_answer": "Rubber tubing"
+  },
+  {
+    "question": "Fanconi's anemia is an inherited aplastic anemia with mutations that lead to:",
+    "options": ["Increased chromosome fragility", "Myelophthisic anemia", "Pancreatic issues", "RBC enzymatic defects"],
+    "correct_answer": "Increased chromosome fragility"
+  },
+  {
+    "question": "For how many days sample can be kept stable for amylase test?",
+    "options": ["5 days at 2-8°C", "15 days at 2-8°C", "8 days at 2-8°C", "10 days at 2-8°C"],
+    "correct_answer": "5 days at 2-8°C"
+  },
+  {
+    "question": "For antibiograms which is the ideal agar",
+    "options": ["Mueller Hinton agar", "CLED agar", "Nutrient agar", "Sabouraud's dextrose agar"],
+    "correct_answer": "Mueller Hinton agar"
+  },
+  {
+    "question": "All are true for PNH (Paroxysmal nocturnal haemoglobinuria) except:",
+    "options": ["More than 10 per cent haemolysis by sucrose haemolysis test", "Direct Coombs test +", "High neutrophil alkaline phosphatase score", "Ham's acid serum test positive"],
+    "correct_answer": "High neutrophil alkaline phosphatase score"
+  },
+  {
+    "question": "Coloured CSF may be obtained in:",
+    "options": ["Bilirubinemia", "Melanin in CSF", "Carotenaemia", "All"],
+    "correct_answer": "All"
+  },
+  {
+    "question": "Gram staining and reading a glass slide with a mixed smear of Staphylococcus and Escherichia coli along with each Gram staining run of specimens examined within the microbiology laboratory that day is an example of which of the following?",
+    "options": ["Quality assurance (QA) activity", "National regulatory activity", "Quality control (QC) activity", "Office of Safety and Health Administration activity"],
+    "correct_answer": "Quality control (QC) activity"
+  },
+  {
+    "question": "What is the normal range of venous blood pH?",
+    "options": ["7.38-7.48", "7.35-7.40", "7.32-7.43", "7.33-7.44"],
+    "correct_answer": "7.32-7.43"
+  },
+  {
+    "question": "Duration of pre-erythrocytic schizogony in Plasmodium falciparum is:",
+    "options": ["9 days", "5 days", "2 days", "13 days"],
+    "correct_answer": "5 days"
+  },
+  {
+    "question": "In porphyrinuria coproporphyrin predominates in urine, coproparphyrin Ill may occur:",
+    "options": ["Lead poisoning.", "Scurvy.", "Vitamin A deficiency.", "Porphyria hepatica."],
+    "correct_answer": "Vitamin A deficiency."
+  },
+  {
+    "question": "In which condition, there is abnormality in the synthesis of polypeptide chain of globin in hemoglobin?",
+    "options": ["Hemoglobinopathies", "Anemia", "Hemoglobinuria", "Leukemia"],
+    "correct_answer": "Hemoglobinopathies"
+  },
+  {
+    "question": "Ova recovered from the stool are routinely used to diagnose infections caused by all of the following except?",
+    "options": ["Ascaris lumbricids", "Trichuris trichiura", "Strongyloides stercoralis", "Necator americanus"],
+    "correct_answer": "Strongyloides stercoralis"
+  },
+  {
+    "question": "Glanzmann's thrombasthenia is best described as a",
+    "options": ["Deficiency of glycoprotein Ib/IX", "Deficiency of dense granules", "Platelet deficiency", "Deficiency of glycoprotein lib/llla"],
+    "correct_answer": "Deficiency of glycoprotein lib/llla"
+  },
+  {
+    "question": "Contraction band necrosis is a reversible change produced by the hyper contraction of myofibrils in a dying cell after myocardial infarction:",
+    "options": ["True.", "False."],
+    "correct_answer": "True."
+  },
+  {
+    "question": "A 45-year-old woman consulted a physician after blood pressure screening at a health fair revealed mild-to-moderate hypertension. The patient had central obesity, thin limbs, and a round, ruddy face. She was not taking any medication. Her blood pressure was 160/100 mmHg. A fasting blood glucose performed by fingerstick in the doctor's office was 120 mg/dL. The physician ordered serum cortisol's to be drawn at 8 A.M and 4 P.M and a 24-hour urine collection for 17- hydroxycorticosteroids and 17-ketosteroids. Laboratory results are below: 8 A.M cortisol---32 ug/dL 4 P.M cortisol---30 ug/dL 17-OH- corticosteroids---10 mg/24 hour 17-ketosteroids--15 mg/24 hr What is the patient's probable diagnosis?",
+    "options": ["Hashimoto's disease", "Addison's disease", "Cushing's disease", "Graves' disease"],
+    "correct_answer": "Cushing's disease"
+  },
+  {
+    "question": "What is the potassium content of saliva?",
+    "options": ["18.8 mEq/L", "12.8 mEg/L", "10.8 mEq/ L", "14.1 mEg/ L"],
+    "correct_answer": "14.1 mEg/ L"
+  },
+  {
+    "question": "Which hormone of adrenal gland promotes the reabsorption of sodium ions in the kidney tubloules.",
+    "options": ["Glucocorticoids.", "Norepinephrine.", "Epinephrine.", "Aldosterone."],
+    "correct_answer": "Aldosterone."
+  },
+  {
+    "question": "Which of the following is a description of restriction endonucleases?",
+    "options": ["Enzymes produced by bacteria to prevent invasion and replication of foreign DNA in their bacterial genome", "A family of bacteria from which endonuclease that cuts DNA into fragments is produced", "Enzymes that specifically degrade DNA in nucleic acid mixtures when plasmids are present", "Only able to digest specific genes on specific chromosomes with their endonuclease action"],
+    "correct_answer": "Enzymes produced by bacteria to prevent invasion and replication of foreign DNA in their bacterial genome"
+  },
+  {
+    "question": "Which of the following in enzymes necrotizing initiatestissue destruction pancreatitis?",
+    "options": ["Elastase", "Lipase", "Collagenase", "Lipase"],
+    "correct_answer": "Collagenase"
+  },
+  {
+    "question": "Urochrome is derived from which substance?",
+    "options": ["Urea.", "Bile.", "Stercobilinogen.", "Urobilinogen."],
+    "correct_answer": "Urobilinogen."
+  },
+  {
+    "question": "For best identification of cryptococcus neoformans the specimens of sputum, pus, or CSF should mixed with and studied under the microscope:",
+    "options": ["India ink", "Red ink", "Election ink", "Blue ink"],
+    "correct_answer": "India ink"
+  },
+  {
+    "question": "Koplik's spots will develop in:",
+    "options": ["rubella", "HIV", "Measles", "mumps"],
+    "correct_answer": "Measles"
+  },
+  {
+    "question": "What are the non renal cause of proteinuria?",
+    "options": ["All", "Nephralithiasis", "Obstruction", "Pyelonephritis"],
+    "correct_answer": "All"
+  },
+  {
+    "question": "What is the lower panic level of serum potassium for adults?",
+    "options": ["˂3.0 mEqg/L", "˂2.0 mEq/L", "˂2.5 mEq/L", "˂1.2 mEg/L"],
+    "correct_answer": "˂2.5 mEq/L"
+  },
+  {
+    "question": "1gG has subclasses.",
+    "options": ["2", "4", "3"],
+    "correct_answer": "4"
+  },
+  {
+    "question": "Wrong match is:",
+    "options": ["Trichiura-pig", "KFD-Ticks", "Ancylostoma-skin", "Malaria-Mosquito"],
+    "correct_answer": "Trichiura-pig"
+  },
+  {
+    "question": "The use of EDTA samples for the direct antiglobulin test prevents activation of the classical complement pathway by:",
+    "options": ["Chelating Ca2+ ions, preventing assembly of C1", "Causing rapid decay of complement proteins", "Chelating Mg2+ ions, preventing assembly of C6", "Preventing chemotaxis"],
+    "correct_answer": "Chelating Ca2+ ions, preventing assembly of C1"
+  },
+  {
+    "question": "Which of the following causes Hydatid cyst?",
+    "options": ["Diphyllobothrium latum", "T. solium", "H. nana", "E. granulosus"],
+    "correct_answer": "E. granulosus"
+  },
+  {
+    "question": "Which fixative is used in the electron microscopy in the histopathology.",
+    "options": ["Zamboni\"s fixative.", "All", "Glutaraldehydes.", "Para formaldehyde- glutaraldehydes."],
+    "correct_answer": "Glutaraldehydes."
+  },
+  {
+    "question": "The loose intertwined network of basic structural units of the molds that penetrates the substrate from which it obtains the necessary nutrients for growth is called which of the following?",
+    "options": ["Germ tubes", "Pseudohyphae", "Mycelium", "Hyphae"],
+    "correct_answer": "Mycelium"
+  },
+  {
+    "question": "As per latest recommendations two fasting glucose values above mg/dL are indicative of diabetes mellitus.",
+    "options": ["126", "120", "110", "140"],
+    "correct_answer": "126"
+  },
+  {
+    "question": "The trophozoite which contains red blood cells in the cytoplasm belongs to this parasite:",
+    "options": ["Entamoeba gingivalis", "lodamoeba butschlii", "Entamoeba coli", "Entamoeba histolytica"],
+    "correct_answer": "Entamoeba histolytica"
+  },
+  {
+    "question": "The usual internal diameter of the needle in cytology of intrathoracic masses is:",
+    "options": ["0.6to 0.7mm", "0.8to0.12mm", "04t009 mm", "0.1to0.2mm"],
+    "correct_answer": "0.6to 0.7mm"
+  },
+  {
+    "question": "The normal yellow color of urine is due to:",
+    "options": ["Bilirubin.", "Urobilinogen.", "Biliverdin.", "Urochrome."],
+    "correct_answer": "Urochrome."
+  },
+  {
+    "question": "Carcinoma that carcinoma gives the highest percentage positive results in sputum examination is:",
+    "options": ["None", "Central bronchogenic carcinoma", "Metastatic carcinoma", "Peripheral carcinoma"],
+    "correct_answer": "Central bronchogenic carcinoma"
+  },
+  {
+    "question": "A patient with type 2 diabetes is in for a routine examination with the physician. A series of laboratory tests are performed, including calculation of an eGFR. The patient's calculated eGFR is 64 mL/ min. This result is most indicative of:",
+    "options": ["A normal state", "Kidney failure", "Mild kidney damage", "Abnormal glucose control"],
+    "correct_answer": "Mild kidney damage"
+  },
+  {
+    "question": "How does ribonucleic acid (RNA) differ from deoxyribonucleic acid (DNA)?",
+    "options": ["DNA has a messenger form and RNA does not", "RNA does not contain nucleotides and DNA does", "DNA resides in the cytoplasm of the cell and RNA is in the nucleus", "RNA has a uracil and DNA has a thymine"],
+    "correct_answer": "RNA has a uracil and DNA has a thymine"
+  },
+  {
+    "question": "Carcinoma of penis is unknown in Jews because of",
+    "options": ["Low oncogenicity of the race.", "Low incidence of venereal diseases.", "High incidence of HPV infections.", "Ritual circumcision in first days of life."],
+    "correct_answer": "Ritual circumcision in first days of life."
+  },
+  {
+    "question": "CK BB is primarily found in",
+    "options": ["Bile", "Bones", "Blood", "Brain"],
+    "correct_answer": "Brain"
+  },
+  {
+    "question": "Which of the following is not an inherited liver disorder ?",
+    "options": ["gilbert's disease", "sclerosing cholangitis", "Dubbin -johnson syndrome", "rotor syndrome"],
+    "correct_answer": "sclerosing cholangitis"
+  }
+]

@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=yes, viewport-fit=cover">
+    <title>DHAMCQ Exam Simulator | Professional Quiz Platform</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:opsz,wght@14..32,300;14..32,400;14..32,500;14..32,600;14..32,700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="app-container">
+    <!-- Header / Brand -->
+    <header class="quiz-header">
+        <div class="logo-area">
+            <span class="logo-icon"></span>
+            <h1>DHAMCQ <span>Exam Simulator</span></h1>
+        </div>
+        <p class="tagline">Master your MCQs — 10 full sets, 151 questions each, 3-hour exam environment</p>
+    </header>
+
+    <!-- Dashboard: List of Test Cards -->
+    <main class="dashboard-view">
+        <div class="section-title">
+            <h2>Available Test Sets</h2>
+            <span class="badge-info">10 tests • 151 questions each • 3 hours per test</span>
+        </div>
+        <div class="tests-grid" id="tests-grid">
+            <!-- dynamic cards from JS -->
+            <div class="loading-cards">Loading test sets...</div>
+        </div>
+    </main>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>

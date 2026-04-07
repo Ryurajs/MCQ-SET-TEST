@@ -1,0 +1,757 @@
+[
+  {
+    "question": "Absolute lymphocytosis is seen in all of the following conditions except:",
+    "options": ["Thyrotoxicosis", "Lymphocytic leukemia", "Infective hepatitis", "Mumps, rubella, infectious mononucleosis"],
+    "correct_answer": "Infective hepatitis"
+  },
+  {
+    "question": "EDTA (Ethylene diamine tetra acetic acid) is unsuitable and should not be used in the estimation of",
+    "options": ["G6PD", "Hb-F", "Sickle cell", "Prothrombin"],
+    "correct_answer": "Prothrombin"
+  },
+  {
+    "question": "The most probable explanation for a patient who presents with an elevated osmolal gap, metabolic acidosis, and calcium oxalate crystals in the urine is:",
+    "options": ["Methanol intoxication", "Ethylene glycol intoxication", "Cyanide poisoning", "Ethanol overdose"],
+    "correct_answer": "Ethylene glycol intoxication"
+  },
+  {
+    "question": "CSF xanthochromia (pale pink to pale orange or yellow colour) is not seen in?",
+    "options": ["normal circumstances", "carotenemia", "Traumatic tap", "Bilirubinemia"],
+    "correct_answer": "normal circumstances"
+  },
+  {
+    "question": "Which one of the following organisms is associated with nongonococcal urethritis in humans?",
+    "options": ["M. pneumoniae", "U. urealyticum", "M. fermentans", "M. hominis"],
+    "correct_answer": "U. urealyticum"
+  },
+  {
+    "question": "Gangrene in diabetes is a result of:",
+    "options": ["Uremia caused by K.W.syndrome", "Microangiopathy", "Diabetic neuropathy", "Atherosclerosis"],
+    "correct_answer": "Atherosclerosis"
+  },
+  {
+    "question": "Malignant pustule is a term for:",
+    "options": ["Malignant melanoma", "Marjolin's ulcer", "Proliferating rodent ulcer", "Anthrax ulcer"],
+    "correct_answer": "Malignant melanoma"
+  },
+  {
+    "question": "What test should be ordered to evaluate anovulation?",
+    "options": ["FSH and LH", "Prolactin and testosterone", "TFTs and DHEAS", "All"],
+    "correct_answer": "All"
+  },
+  {
+    "question": "Iron is absorbed from which part of the intestine?",
+    "options": ["Colon", "Jejunum", "Duodenum", "All option"],
+    "correct_answer": "Duodenum"
+  },
+  {
+    "question": "Which fungi is commonly encountered in external auditory canal debris?",
+    "options": ["Coccidioides", "Blastomyces", "Aspergillus", "Absidia"],
+    "correct_answer": "Aspergillus"
+  },
+  {
+    "question": "An inhibitor was designed to block a biologic function in H. influenzae. If the goal of the experiment was to reduce the virulence of H. influenzae, the most likely target would be which of the following?",
+    "options": ["flagella synthesis", "capsule formation", "endotoxin assembly", "Exotoxin liberator"],
+    "correct_answer": "capsule formation"
+  },
+  {
+    "question": "ALP at an alkaline pH hydrolyses di sodium phenyl-phosphate to form",
+    "options": ["Touluol", "Glycerol", "Glycol", "Phenol"],
+    "correct_answer": "Phenol"
+  },
+  {
+    "question": "Which is the post-staining procedure?",
+    "options": ["Dehydration", "Decalcification", "Embedding", "Fixation"],
+    "correct_answer": "Dehydration"
+  },
+  {
+    "question": "In Ziehl Neelsen staining used for M. leprae, the decolorizing agent used is:",
+    "options": ["5% sulphuric acid", "15% sulphuric acid", "10% sulphuric acid", "20% sulphuric acid"],
+    "correct_answer": "5% sulphuric acid"
+  },
+  {
+    "question": "The sensitization of RBC with Rh antibody can be occurred through",
+    "options": ["Transfusion", "Pregnancy", "Both", "None option"],
+    "correct_answer": "Both"
+  },
+  {
+    "question": "A patient who has been receiving a broad-spectrum antibiotic is found to have a prolonged PT. After running a couple of factor assays, you conclude that both the factor X and factor VII levels are decreased. The PT corrected when mixed with normal pooled plasma. What is a possible cause?",
+    "options": ["Circulating anticoagulant", "Inherited factor deficiency", "Vitamin K deficiency", "Effect resulting from antibiotic presence in plasma"],
+    "correct_answer": "Inherited factor deficiency"
+  },
+  {
+    "question": "All are true regarding Echinococcus except:",
+    "options": ["Exogenous cyst formation is seen in bone hydatid", "Most common site of infection is liver", "Larva is infective to man", "Endocyst gives rise to brood capsules"],
+    "correct_answer": "Larva is infective to man"
+  },
+  {
+    "question": "An educational learning objective must:",
+    "options": ["Be written in broad terms", "Be provided after the educational unit ends", "Explain exactly what the student should be able to do", "Not be measurable"],
+    "correct_answer": "Explain exactly what the student should be able to do"
+  },
+  {
+    "question": "Which of the following tests is important as a part of the genus identification or as part of a preliminary identification but is not used as a confirmatory identification of Bacillus anthracis?",
+    "options": ["Demonstration of a capsule", "Demonstration of spore formation", "Lysis of the strain by specific bacteriophages", "Positive PCR test"],
+    "correct_answer": "Demonstration of spore formation"
+  },
+  {
+    "question": "The bacterial isolate on XLD agar shown in the image was isolated from a routine stool culture. Which of the following genera and species is the most likely identification for this organism?",
+    "options": ["Shigella sonnei", "Serratia marcescens", "Klebsiella pneumoniae", "Salmonella enteritidis"],
+    "correct_answer": "Salmonella enteritidis"
+  },
+  {
+    "question": "With ANA immunofluorescence what kind of ANA pattern can be observed?",
+    "options": ["Speckled", "Homogeneous (smooth)", "All", "Peripheral (rim or shaggy)"],
+    "correct_answer": "All"
+  },
+  {
+    "question": "PT is the only coagulation test that is increased in which of the following disorders of the extrinsic pathway?",
+    "options": ["Factor VII deficiency", "Factor X deficiency", "Factor V deficiency", "Factor I deficiency"],
+    "correct_answer": "Factor VII deficiency"
+  },
+  {
+    "question": "EDTA 2 K salt is recommended for CBC because it is:",
+    "options": ["Less water soluble", "Less water solvent", "More water solvent", "More water soluble"],
+    "correct_answer": "More water soluble"
+  },
+  {
+    "question": "Following viruses are associated with malignancy except:",
+    "options": ["EBV", "HPV", "HBV", "Picornavirus"],
+    "correct_answer": "Picornavirus"
+  },
+  {
+    "question": "Which organism is partially acid-fast with a fungal-like appearance?",
+    "options": ["Erysipelothrix", "Corynebacterium", "Nocardia", "Lactobacillus"],
+    "correct_answer": "Nocardia"
+  },
+  {
+    "question": "What is the full form of G6PD?",
+    "options": ["Both", "Glucose-6-phosphate-dehydrogenase", "None", "Glucose-6-phosphorus-dehydrogenase"],
+    "correct_answer": "Glucose-6-phosphate-dehydrogenase"
+  },
+  {
+    "question": "Which of the following is an inherited disorder causing jaundice?",
+    "options": ["Crigler-Najjar syndrome", "Neonatal jaundice", "Hepatocellular carcinoma", "Hepatitis"],
+    "correct_answer": "Crigler-Najjar syndrome"
+  },
+  {
+    "question": "Of the following would not cause an alkali burn:",
+    "options": ["Potassium hydroxide", "Sodium hydroxide", "Hydrogen peroxide", "Ammonium hydroxide"],
+    "correct_answer": "Hydrogen peroxide"
+  },
+  {
+    "question": "One B-cell marker of early-stage B-cell development is ______, whereas ______ is a marker for later stages of B-cell development.",
+    "options": ["CD21; CD10", "CD20; CD10", "CD10; CD20", "CD19; CD10"],
+    "correct_answer": "CD10; CD20"
+  },
+  {
+    "question": "A 2-week-old baby is seen for a possible infection with CMV. Which of the following statements is false?",
+    "options": ["A positive result for anti-CMV IgM would indicate infection", "All are false statements", "An initial titer of anti-CMV IgG would need to be established", "A positive anti-CMV result from baby's specimen is inconclusive"],
+    "correct_answer": "An initial titer of anti-CMV IgG would need to be established"
+  },
+  {
+    "question": "The conversion of lactic acid to glucose occurs through which cycle?",
+    "options": ["Hexose monophosphate shunt", "Glycolysis", "Urea cycle", "Cori cycle"],
+    "correct_answer": "Cori cycle"
+  },
+  {
+    "question": "Large number of polymorphs may not be found in CSF because of infection caused by:",
+    "options": ["neisseria meningitidis", "pneumococci", "M. Tuberculosis", "Haemophilus influenzae"],
+    "correct_answer": "M. Tuberculosis"
+  },
+  {
+    "question": "In case of an acid burn ______ may not be required.",
+    "options": ["Clean running water", "Dilute hydrochloric acid", "None", "5% aqueous sodium carbonate"],
+    "correct_answer": "Dilute hydrochloric acid"
+  },
+  {
+    "question": "Which enzyme is activated by ions such as magnesium, manganese, zinc and cobalt?",
+    "options": ["Acid phosphatase", "Azolesterase", "Alkaline phosphatase", "Peroxidase"],
+    "correct_answer": "Alkaline phosphatase"
+  },
+  {
+    "question": "Name deep or systemic mycoses:",
+    "options": ["All", "Actinomyces", "Nocardia", "Cryptococcus neoformans"],
+    "correct_answer": "All"
+  },
+  {
+    "question": "A 15 yrs old boy presented with fever and cough since 10 days. He has history of reduced appetite and weight loss. He was admitted previously for same complaints and was treated with antibiotics. He is also a known case of congenital heart disease with aortic regurgitation. He has received penicillin prophylaxis for last 5 yrs. He has history of hospital admission for infective endocarditis, which was treated successfully with antibiotics. This time he was relieved with antibiotic therapy and discharged. But later he again presents with fever and cough with expectoration. CT chest done revealed destructive pneumonia progressing day by day. Sputum examination was normal. However, bronchoscopic lavage cultured on sheep blood agar showed evidence of gram positive, weakly acid fast branching filamentous organisms. Which of the following is most likely etiological agent?",
+    "options": ["Aspergillus", "Nocardia", "Actinomycetes", "Mycobacterium TB"],
+    "correct_answer": "Actinomycetes"
+  },
+  {
+    "question": "Barr bodies are believed to function in early embryonic development and later become inactivated to maintain:",
+    "options": ["Gene balance of Ys to autosomes", "Gene balance of Xs to autosomes", "Both", "None"],
+    "correct_answer": "Gene balance of Xs to autosomes"
+  },
+  {
+    "question": "The best screening test for Cushing's syndrome is:",
+    "options": ["Overnight dexamethasone (1mg) suppression test", "8AM and 4PM plasma cortisol levels", "24 hours urinary 17 hydroxy ketosteroid excretion", "Plasma ACTH levels"],
+    "correct_answer": "Overnight dexamethasone (1mg) suppression test"
+  },
+  {
+    "question": "For which of the following parasitic diseases would you consider a muscle biopsy examination?",
+    "options": ["Ascariasis", "Trichinellosis", "Ancylostomiasis", "Trichuriasis"],
+    "correct_answer": "Trichinellosis"
+  },
+  {
+    "question": "Of the following is not a CK isoenzyme:",
+    "options": ["CKBB", "CK MM", "CK MT", "CK MB"],
+    "correct_answer": "CK MT"
+  },
+  {
+    "question": "Antibody titers are used to:",
+    "options": ["screen a unit for a particular antigen", "determine if there is an antibody present in a person's serum", "determine if a crossmatch is necessary", "predict the severity of HDN"],
+    "correct_answer": "predict the severity of HDN"
+  },
+  {
+    "question": "An increase in the numbers of morphologically abnormal sperms in a semen sample is called:",
+    "options": ["Aspermia", "Terato asthenozoospermia", "Teratozoospermia", "Azoospermia"],
+    "correct_answer": "Teratozoospermia"
+  },
+  {
+    "question": "Hemoglobin electrophoresis is performed on a patient with known homozygous Hb S who has received red cell transfusions in the past week. Which hemoglobins would be expected on the gel?",
+    "options": ["Hb A and Hb F", "HbS, Hb A, Hb F, and Hb A2", "HbS and Hb F", "HbS, Hb A, and Hb F"],
+    "correct_answer": "HbS, Hb A, Hb F, and Hb A2"
+  },
+  {
+    "question": "Which of the following can be used for all kinds of fires?",
+    "options": ["Fire blanket", "CO2 fire extinguisher", "Halon spray", "Water"],
+    "correct_answer": "Halon spray"
+  },
+  {
+    "question": "A sewer worker presented with fever, jaundice and conjunctival hemorrhage. Clinical diagnosis is most likely?",
+    "options": ["Brucellosis", "Leptospirosis", "Plague", "Aspergillosis"],
+    "correct_answer": "Leptospirosis"
+  },
+  {
+    "question": "Deficiencies of prothrombin and factors V, VII and X give rise to a prolonged prothrombin time due to following common causes except:",
+    "options": ["Liver diseases", "Haemorrhagic disease", "Heparin therapy", "Obstructive jaundice"],
+    "correct_answer": "Heparin therapy"
+  },
+  {
+    "question": "T-cell ALL most commonly affects which of the following?",
+    "options": ["Teenaged males", "Adult females", "Infants", "Elderly males"],
+    "correct_answer": "Teenaged males"
+  },
+  {
+    "question": "What type(s) of red cells is/are acceptable to transfuse to an AB-negative patient?",
+    "options": ["AB negative, A negative, B negative only", "AB negative only", "A negative, B negative, AB negative, O negative", "O negative only"],
+    "correct_answer": "A negative, B negative, AB negative, O negative"
+  },
+  {
+    "question": "Cryptococcosis is characterized by:",
+    "options": ["Ease in making diagnosis of lung lesion", "Meningitis is the most common clinical manifestation", "Hilar adenopathy is common", "Lack of calcification of pulmonary lesions"],
+    "correct_answer": "Hilar adenopathy is common"
+  },
+  {
+    "question": "What is the other name for Koch-Weeks bacillus?",
+    "options": ["Donovania granulomatis", "Haemophilus aegyptiacus", "Haemophilus ducreyi", "Haemophilus influenzae"],
+    "correct_answer": "Haemophilus aegyptiacus"
+  },
+  {
+    "question": "How many moles of glucose are in 300 mL of a 2 M glucose solution?",
+    "options": ["60", "0.6", "600", "6"],
+    "correct_answer": "0.6"
+  },
+  {
+    "question": "Phenol red test is also known as:",
+    "options": ["PRP test", "CRP test", "PAP test", "PCP test"],
+    "correct_answer": "PAP test"
+  },
+  {
+    "question": "Effective in diagnosing plasma sterilization:",
+    "options": ["Bacillus stearothermophilus", "Clostridium tetani", "Bacillus pumilus", "Bacillus subtilis"],
+    "correct_answer": "Bacillus stearothermophilus"
+  },
+  {
+    "question": "What is the factor for converting serum cholesterol from SI to conventional units?",
+    "options": ["24.8", "38.61", "71.6", "45.9"],
+    "correct_answer": "38.61"
+  },
+  {
+    "question": "Hyperchlorhydria is not seen in:",
+    "options": ["Zollinger Ellison syndrome", "Gastric ulcer", "Atrophic gastritis", "Duodenal ulcer"],
+    "correct_answer": "Atrophic gastritis"
+  },
+  {
+    "question": "What is the normal GHb level?",
+    "options": ["3-5%", "9-12%", "4.5-8%", "1-2%"],
+    "correct_answer": "4.5-8%"
+  },
+  {
+    "question": "Necator americanus rhabditiform larvae can be differentiated from Strongyloides stercoralis rhabditiform larvae by:",
+    "options": ["Length of the head region", "Size of the genital primordium", "Segmentation", "Length of the notched tail"],
+    "correct_answer": "Size of the genital primordium"
+  },
+  {
+    "question": "Nissl substances and the neurofibrils are present in which of the process?",
+    "options": ["Axons", "Both", "Dendrite", "None"],
+    "correct_answer": "Dendrite"
+  },
+  {
+    "question": "True about Bordetella pertussis is:",
+    "options": ["Facultative anaerobe", "Ferment sugars", "Needs X and V factors for growth", "Strict aerobe"],
+    "correct_answer": "Needs X and V factors for growth"
+  },
+  {
+    "question": "The differential activation of genes depending on the parent from which they are inherited is referred to as:",
+    "options": ["Imprinting", "Pleiotropy", "Allelic heterogeneity", "Mosaicism"],
+    "correct_answer": "Imprinting"
+  },
+  {
+    "question": "An 8-year-old boy from Oklahoma presents with a 3-day history of fever, headache, and muscle aches. A rash first noted this morning on his ankles and wrists has now spread to include his trunk. The medical team has identified a list of possible organisms. Which of the following is the most likely cause?",
+    "options": ["Q Fever", "Ehrlichiosis", "Rocky Mountain spotted fever", "Cat scratch disease"],
+    "correct_answer": "Rocky Mountain spotted fever"
+  },
+  {
+    "question": "Which mineral is required for the synthesis of DNA, RNA and phospholipids?",
+    "options": ["Sodium", "Phosphorus", "Calcium", "Potassium"],
+    "correct_answer": "Phosphorus"
+  },
+  {
+    "question": "What helps to measure the capacity of tubules to reabsorb water from glomerular filtrate?",
+    "options": ["None", "pH", "Specific gravity", "Both"],
+    "correct_answer": "Specific gravity"
+  },
+  {
+    "question": "All infected material should ideally be discarded into:",
+    "options": ["None", "Hypochlorite solution", "Saline", "Alcohol"],
+    "correct_answer": "Alcohol"
+  },
+  {
+    "question": "The best estimate of plasma osmolality is represented by:",
+    "options": ["Plasma K+ Concentration / K+ concentration", "Plasma HCO3 Concentration / HCO3- concentration", "None", "Plasma Na+ concentration / Na+ concentration"],
+    "correct_answer": "Plasma Na+ concentration / Na+ concentration"
+  },
+  {
+    "question": "What are the causes for thrombocytopenia?",
+    "options": ["All", "Increased destruction of platelets", "Viral infection", "Bone marrow failure"],
+    "correct_answer": "All"
+  },
+  {
+    "question": "Blood group system antigen is found on the surface of",
+    "options": ["WBC", "Platelets", "Plasma", "RBC"],
+    "correct_answer": "RBC"
+  },
+  {
+    "question": "All of the following are true regarding transfusion malaria except:",
+    "options": ["Transmitted by merozoites and erythrocytic stages", "Sporozoites transmit it", "Incubation period is shorter", "There is no pre-erythrocytic phase"],
+    "correct_answer": "Sporozoites transmit it"
+  },
+  {
+    "question": "What is not true of electrical installations in a laboratory?",
+    "options": ["Install fire resistant cables", "Use one electrical socket for a single device", "Flammable liquids can be kept near electrical points", "Use earthing everywhere"],
+    "correct_answer": "Flammable liquids can be kept near electrical points"
+  },
+  {
+    "question": "AML with 11q23 (MLL) abnormalities are associated with which cell line?",
+    "options": ["Erythrocyte", "Neutrophil", "Eosinophil", "Monocyte"],
+    "correct_answer": "Monocyte"
+  },
+  {
+    "question": "What is the arterial blood panic PaO2 level?",
+    "options": ["<5.3 kPa", "<5.0 kPa", "<5.8 kPa", "<5.5 kPa"],
+    "correct_answer": "<5.3 kPa"
+  },
+  {
+    "question": "Mark true in the following:",
+    "options": ["Lyssa virus is transmitted by ticks", "Hantavirus pulmonary syndrome is caused by inhalation of rodent urine and feces", "Chikungunya is caused by anopheles", "KFD is caused by the bite of wild animal"],
+    "correct_answer": "Hantavirus pulmonary syndrome is caused by inhalation of rodent urine and feces"
+  },
+  {
+    "question": "Armanni-Ebstein lesion of kidney is characterized by:",
+    "options": ["Granular casts in urine along with glucose", "Proliferation of the mesangial cells", "Glycogen deposition within the proximal convoluted tubules", "Necrotizing papillitis"],
+    "correct_answer": "Glycogen deposition within the proximal convoluted tubules"
+  },
+  {
+    "question": "The increase in titer of agglutinins in typhoid fever reaches a peak in the:",
+    "options": ["1st week of illness", "4th week of illness", "2nd week of illness", "3rd week of illness"],
+    "correct_answer": "1st week of illness"
+  },
+  {
+    "question": "A TRH stimulation test is performed, and a flat response is received from this test procedure. This most likely indicates:",
+    "options": ["Secondary hyperthyroidism", "Secondary hypothyroidism", "Primary hypothyroidism", "Tertiary hyperthyroidism"],
+    "correct_answer": "Secondary hypothyroidism"
+  },
+  {
+    "question": "Silver methenamine stain is used for the detection of:",
+    "options": ["Bacteria", "All", "Fungi", "Parasite"],
+    "correct_answer": "Fungi"
+  },
+  {
+    "question": "A22-year-old female with a cousin with AIDS who had taken aspirin the day before and with needle marks on both arms presents to donate whole blood. Based on this information, would you accept, permanently defer (PD), or temporarily defer (TD) the donor?",
+    "options": ["TD, needle marks on both arms", "PD, needle marks on both arms", "PD, cousin with AIDS", "TD, because of the aspirin"],
+    "correct_answer": "PD, needle marks on both arms"
+  },
+  {
+    "question": "The peripheral blood and bone marrow picture sometimes will look similar in myelodysplastic syndromes and some RBC disorders. Which of the following RBC disorders tends to have a peripheral smear appearance similar to cases of myelodysplastic syndromes?",
+    "options": ["Warm autoimmune hemolytic anemia", "a-Thalassemia minor", "Megaloblastic anemia", "Iron deficiency anemia"],
+    "correct_answer": "Megaloblastic anemia"
+  },
+  {
+    "question": "Which method would you use for platelet counting and for examining routine urine specimens?",
+    "options": ["Phase contrast microscopy", "Fluorescence microscopy", "TEM", "Dark background illumination"],
+    "correct_answer": "Phase contrast microscopy"
+  },
+  {
+    "question": "Lecithinase production, double zone hemolysis on sheep blood agar, and gram-stained morphology are all useful criteria in the identification of which of the following?",
+    "options": ["Clostridium tetani", "Streptococcus agalactiae", "Clostridium perfringens", "Escherichia coli"],
+    "correct_answer": "Clostridium perfringens"
+  },
+  {
+    "question": "Which of the following describes the difference between mycoplasmas and chlamydiae?",
+    "options": ["Able to cause disease in humans", "Able to cause urinary tract infection", "Able to grow on artificial cell-free media", "Able to stain well with Gram stain"],
+    "correct_answer": "Able to grow on artificial cell-free media"
+  },
+  {
+    "question": "Which of the parasites has operculated eggs?",
+    "options": ["A. lumbricoides", "Schistosoma haematobium", "H. nana", "T. solium"],
+    "correct_answer": "Schistosoma haematobium"
+  },
+  {
+    "question": "A person having diarrhea of six months duration. AFB of size 12 micron are found in stool. Most likely cause is:",
+    "options": ["Cyclospora", "Giardia", "Isospora", "Cryptosporidium"],
+    "correct_answer": "Cyclospora"
+  },
+  {
+    "question": "After the blood cultures are negative, typhoid bacilli can be cultured from the:",
+    "options": ["All", "Bone marrow", "Urine", "Feces"],
+    "correct_answer": "Bone marrow"
+  },
+  {
+    "question": "Match the following analytes with their reference ranges: IgA",
+    "options": ["less than 10 IU / mL", "3-14 mg/dL", "70-400 mg / dL", "700-1600 mg / dL"],
+    "correct_answer": "70-400 mg / dL"
+  },
+  {
+    "question": "Type of graft, best suited for renal transplantation:",
+    "options": ["Xenograft", "Allograft", "Autograft", "Isograft"],
+    "correct_answer": "Isograft"
+  },
+  {
+    "question": "Thermophilic bacteria grow best at --- degrees celsius",
+    "options": ["15-20", "20-30", "60-70", "25-40"],
+    "correct_answer": "60-70"
+  },
+  {
+    "question": "High RBC counts are found in:",
+    "options": ["Erythrocytosis", "Hemolysis", "Polycythemia", "Anaemia"],
+    "correct_answer": "Polycythemia"
+  },
+  {
+    "question": "Which of the following fibrinolytic inhibitors is when oa2-antiplasmin activity has useful been exhausted?",
+    "options": ["Plasminogen", "Thrombin-activatable fibrinolysis inhibitor", "PAI-1", "a2-Macroglobulin"],
+    "correct_answer": "a2-Macroglobulin"
+  },
+  {
+    "question": "As per latest recommendations randomglucose values above are confirmative of",
+    "options": ["8.5", "9.9", "111", "12.8"],
+    "correct_answer": "111"
+  },
+  {
+    "question": "Which of the following is true about enzymes and their effect on red cell antigens and antibodies?",
+    "options": ["The Rh, Duffy, MN, and Ss system antigen and antibody reactions are enhanced", "The Duffy, MN, and Ss system antigens are destroyed, so antigen and antibody reactions are not detectable", "The Rh, Duffy, MN, and Ss system antigens are destroyed, so antigen and antibody reactions are not detectable", "Only the Duffy system antigens are affected by enzymes"],
+    "correct_answer": "The Duffy, MN, and Ss system antigens are destroyed, so antigen and antibody reactions are not detectable"
+  },
+  {
+    "question": "Transfusion of blood or blood products previously collected from the dame person is called",
+    "options": ["none option", "Directed transfusion", "Undirect transfusion", "Autologous transfusion"],
+    "correct_answer": "Autologous transfusion"
+  },
+  {
+    "question": "The characteristic laboratory finding in alcoholic cirrhosis includes:",
+    "options": ["Slight elevations in AST and ALT (AST˃ALT), marked elevations in GGT, slight elevations in ALP", "Slight elevations in AST and ALT, marked elevations in ALP, normal GGT", "Slight elevations in AST, ALT, and GGT and marked elevations in 50 nucleotidase", "Moderate elevations in AST and ALT, normal GGT, and normal ALP"],
+    "correct_answer": "Slight elevations in AST and ALT (AST˃ALT), marked elevations in GGT, slight elevations in ALP"
+  },
+  {
+    "question": "Foamy appearance of adenohypophysis cells and abnormal storage of mucopolysaccharides is seen in :",
+    "options": ["Hand-shuller-Christian disease.", "Letterer siwe's syndrome.", "Gaucher's disease.", "Hurley's syndrome."],
+    "correct_answer": "Hurley's syndrome."
+  },
+  {
+    "question": "An IgA-deficient patient with clinically significant anti-IgA requires which of the following?",
+    "options": ["Washed RBCs", "Leukocyte-reduced fresh frozen plasma", "Irradiated RBCs and platelets", "CMV-seronegative RBCs"],
+    "correct_answer": "Washed RBCs"
+  },
+  {
+    "question": "What should be the ratio between the volume of the tissue and the fixative",
+    "options": ["1:10", "1:100", "1:20", "1:5"],
+    "correct_answer": "1:20"
+  },
+  {
+    "question": "Kala-azar is caused by:",
+    "options": ["None", "L. donovani", "L. brasiliensis", "L. tropica"],
+    "correct_answer": "L. donovani"
+  },
+  {
+    "question": "True statement about Influenza-A is:",
+    "options": ["It has a double stranded segmented RNA", "Hemagglutinin and Neuraminidase antigens are strain specific", "Pandemics are caused by antigenic drift", "Ribonucleoprotein antigen is nonspecific"],
+    "correct_answer": "Hemagglutinin and Neuraminidase antigens are strain specific"
+  },
+  {
+    "question": "Jaundice is a yellow-green discoloration of the skin and sclera by bilirubin. It is seen in eye due to special affinity of bilirubin to:",
+    "options": ["Fibroblasts.", "Elastin.", "Interstitial fluids.", "Epithelial cells."],
+    "correct_answer": "Elastin."
+  },
+  {
+    "question": "Urine with fixed specific gravity of about 1.010 known as:",
+    "options": ["Hyposthenuric urine", "Thenuric urine", "Hyposthenuric urine", "Isosthenuric urine"],
+    "correct_answer": "Isosthenuric urine"
+  },
+  {
+    "question": "Embolus is a detached intravascular solid , liquid or gaseous mass. 99 percent of these arise from a thrombus :",
+    "options": ["False.", "True."],
+    "correct_answer": "True."
+  },
+  {
+    "question": "Glanzmann's thrombasthenia is best described as a:",
+    "options": ["Platelet deficiency", "Deficiency of glycoprotein Iib/llla", "Deficiency of glycoprotein Ib/IX", "Deficiency of dense granules"],
+    "correct_answer": "Deficiency of glycoprotein Iib/llla"
+  },
+  {
+    "question": "For actinomyces specimens culture must be made anaerobically since this organism is an:",
+    "options": ["Facultative aerobe", "obligate anaerobe", "Facultative anaerobe", "Strict aerobe"],
+    "correct_answer": "obligate anaerobe"
+  },
+  {
+    "question": "Simultaneous appearance of the proliferative glomerulo-nephritis and necrotizing hemorrhagic intestinal pneumonitis is seen in the :",
+    "options": ["Goodpasture's syndrome.", "Lupus erythematous.", "Wegener's granulomatosis.", "Hypersensitivity angiitis."],
+    "correct_answer": "Goodpasture's syndrome."
+  },
+  {
+    "question": "Blood grouping sera should meet the following requirements :",
+    "options": ["It should have titer of recommended potency.", "All", "It should be free of cold and irregular agglutinins.", "It should not form rouleaux when mixed with red cells."],
+    "correct_answer": "All"
+  },
+  {
+    "question": "Anti-H very rarely occurs as cold reactive agglutinin in individuals with very low levels of:",
+    "options": ["H antigens on their cells", "All", "M antigens on their cells", "None"],
+    "correct_answer": "H antigens on their cells"
+  },
+  {
+    "question": "Which of the following is true of antibodies to MNS blood group system antigens?",
+    "options": ["Anti-U is directed at a high-incidence antigen", "Anti-N is commonly found", "Anti-S is reactive with enzyme-treated cells", "Anti-M is always clinically significant"],
+    "correct_answer": "Anti-U is directed at a high-incidence antigen"
+  },
+  {
+    "question": "A patient with severe back pain comes to the emergency department. A urine specimen has a 1 + reagent strip reading for blood and a specific gravity of 1.030. This can aid in confirming a diagnosis of",
+    "options": ["Pyelonephritis", "Renal calculi", "Appendicitis", "Multiple myeloma"],
+    "correct_answer": "Renal calculi"
+  },
+  {
+    "question": "Blood culture from a febrile patient has growth of gram + ve cocci. Further testing revealed that the isolate possessed the group D antigen, was not lactamase-positive, but was resistant to vancomycin. Which of the following is the most likely identification of this isolate?",
+    "options": ["Enterococcus Faecalis", "Enterococcus casseliflavus", "Enterococcus durans", "Enterococcus faecium"],
+    "correct_answer": "Enterococcus Faecalis"
+  },
+  {
+    "question": "Ascoli's precipitin test is used to diagnose",
+    "options": ["Gas gangrene", "Wet gangrene", "Dry gangrene", "Anthrax"],
+    "correct_answer": "Anthrax"
+  },
+  {
+    "question": "In which instrument, a holding period of 160 °C for one hour is used to sterilize glassware, forceps, scissors, scalpel, swab etc.",
+    "options": ["Water bath", "Incubator", "Hot air oven", "Autoclave"],
+    "correct_answer": "Hot air oven"
+  },
+  {
+    "question": "All of the following cells are derived from CFU- GEMM, common myeloid progenitor cells except:",
+    "options": ["Neutrophils", "RBCs", "Basophils", "Lymphocytes"],
+    "correct_answer": "Lymphocytes"
+  },
+  {
+    "question": "In which anemia ,MCV and MCH and MCHC remains normal?",
+    "options": ["Macrocytic anemia", "Microcytic anemia", "Hemolytic anemia", "Normocytic anemia"],
+    "correct_answer": "Normocytic anemia"
+  },
+  {
+    "question": "Delayed hypersensitivity reaction include all except:",
+    "options": ["Lepromin reaction", "Graft rejection", "Arthus reaction", "Contact hypersensitivity"],
+    "correct_answer": "Arthus reaction"
+  },
+  {
+    "question": "What percent of the total volume of blood is plasma",
+    "options": ["35%", "55%", "65%", "45%"],
+    "correct_answer": "55%"
+  },
+  {
+    "question": "Mycelium which consists of a mass of long, branching tube like filamentous structures called:",
+    "options": ["Sulphur granules", "Hyphae", "Sporangiophore", "Sporangia"],
+    "correct_answer": "Hyphae"
+  },
+  {
+    "question": "Which of the following is not a true statement regarding HDV:",
+    "options": ["It damaged the liver cells by direct cytopathic effects.", "Usual course of diseases is acute hepatitis followed by recovery.", "It is a defective virus that needs HBSAG to cause infections.", "it has been isolated but not cloned."],
+    "correct_answer": "it has been isolated but not cloned."
+  },
+  {
+    "question": "A 27-year-old white man presents to his family doctor complaining of being tired all the time and having a slight fever for the past two weeks. He recently returned from a trip to Las Vegas, where he indulged in some of the infamous nightlife. His physical exam is unremarkable except for a macular rash over his trunk and on the palms of his hand. That are no lesions or ulcers on the penis. What organism is causing this man's illness?",
+    "options": ["Borrelia burgdorferi", "Neisseria gonorrhea", "Treponema pallidum", "Chlamydia trachomatis"],
+    "correct_answer": "Borrelia burgdorferi"
+  },
+  {
+    "question": "Positive shick's test indicates that person is:",
+    "options": ["Carrier of diphtheria", "Immune to diphtheria", "Hypersensitive to diphtheria", "Susceptible to diphtheria"],
+    "correct_answer": "Immune to diphtheria"
+  },
+  {
+    "question": "In which anemia, MCV and MCH and is less than normal and MCHC is normal?",
+    "options": ["Thalassemia", "Hemolytic anemia", "Microcytic anemia", "Macrocytic anemia"],
+    "correct_answer": "Microcytic anemia"
+  },
+  {
+    "question": "A-65-year-old diabetic man presents to the emergency room with a severe productive cough producing thick bloody sputum resembling a \"currant-jelly\" like appearance. Culture using MacConkey agar reveals pink colonies, with large mucoid colonies on routine laboratory media. Which of the following organisms is most likely responsible for this patient's pneumonia?",
+    "options": ["Klebsiella pneumoniae", "Escherichia coli", "Enterobacter cloacae", "Pseudomonas aeruginosa"],
+    "correct_answer": "Klebsiella pneumoniae"
+  },
+  {
+    "question": "Rod-shaped ,slender bodies present in the cytoplasm of myeloblast or promyelocyte are known as",
+    "options": ["Dohle bodies", "Barr bodies", "Auer bodies", "Toxis granules"],
+    "correct_answer": "Auer bodies"
+  },
+  {
+    "question": "When testing the patient sample, it was reactive with all panel cells tested, including the auto control. Previous records indicate the patient underwent transfusion 1 month ago. What is the next course of action for pretransfusion testing?",
+    "options": ["Perform an enzyme panel", "An autoadsorption test is necessary because of the patient's autoantibody", "It is necessary to perform both an adsorption and enzyme panel", "An alloadsorption test should be performed to determine if an alloantibody is present"],
+    "correct_answer": "An alloadsorption test should be performed to determine if an alloantibody is present"
+  },
+  {
+    "question": "Blood diluted for platelets counting is refrigerated at 4°C which causes :",
+    "options": ["Hemolysis of RBCs", "None", "Destructs WBCs", "Both"],
+    "correct_answer": "Hemolysis of RBCs"
+  },
+  {
+    "question": "This hormone plays a critical role in stimulating gluconeogenesis and ketogenesis in IDDM patients.",
+    "options": ["growth hormone", "ACTH", "glycogen", "glucagon"],
+    "correct_answer": "glucagon"
+  },
+  {
+    "question": "A 25-year-old male tests positive for a hepatitis C infection. Which of the following is the most likely method of transmission?",
+    "options": ["Intravenous drug (needles)", "Fecal-oral", "Fomite", "Sexual transmission"],
+    "correct_answer": "Intravenous drug (needles)"
+  },
+  {
+    "question": "Which is the stain for demonstration of spirochaete ?",
+    "options": ["Luna's stain.", "Alcian blue.", "Crystal violet.", "Fontana masson's stains."],
+    "correct_answer": "Fontana masson's stains."
+  },
+  {
+    "question": "Which of the following is not true in relation to CPA?",
+    "options": ["Laboratarians are expected to keep all reports confidential (legally and ethically). The reports can be divulged to the Referring clinician or to the patient or the relatives of the patient (with patient's consent)", "Free services provided are exempted under CPA", "Ignorance is held as an excuse as an established legal principle", "A laboratarian is also a consumer as he buys various instruments, equipment, diagnostic kits/reagents/devices"],
+    "correct_answer": "Ignorance is held as an excuse as an established legal principle"
+  },
+  {
+    "question": "Which of the following cytoplasmic fixative permanently preserves lipid ?",
+    "options": ["Holly's fluid.", "Zenker's fluid.", "Carnoy's fluid.", "Flemming fluid."],
+    "correct_answer": "Flemming fluid."
+  },
+  {
+    "question": "IgM comprises % of all serum immunoglobulins.",
+    "options": ["11:15", "7-10", "2-5", "16-20"],
+    "correct_answer": "7-10"
+  },
+  {
+    "question": "The locus for ABO grouping is at chromosome 9 which is occupied hy one of three major allelic genes namely:",
+    "options": ["All", "B", "A", "O"],
+    "correct_answer": "All"
+  },
+  {
+    "question": "You have performed an antibody screen using the tube method. All three screening cells tested negative. The Coombs check cells in all three tubes are also nonreactive. What should you do?",
+    "options": ["Perform an antibody identification panel", "Resin the tubes and reread them", "Report the antibody screen as negative", "Repeat the antibody screen"],
+    "correct_answer": "Repeat the antibody screen"
+  },
+  {
+    "question": "Low RBC count are found in:",
+    "options": ["Hemolysis", "Erythrocytosis", "Polycythemia", "Anaemia"],
+    "correct_answer": "Anaemia"
+  },
+  {
+    "question": "Diabetes mellitus that is characterized by absolute insulin deficiency and acute onset, usually before 25years of age , should now be referred to as.",
+    "options": ["IDDM", "Juvenile diabetes mellitus", "Typel", "Type"],
+    "correct_answer": "Typel"
+  },
+  {
+    "question": "In ADH, what does D stand for?",
+    "options": ["Diuretic", "Diplopic", "Double", "Diamino"],
+    "correct_answer": "Diuretic"
+  },
+  {
+    "question": "Blood platelets are important in stopping bleeding in that all is true except:",
+    "options": ["On exposure to collagen they become stickly and adhere together", "A fall in platelet count prolongsed clotting time before the bleeding time is affected", "They can release lipids which have a role in clotting process", "The bleeding time tends to increase when platelet count is low"],
+    "correct_answer": "A fall in platelet count prolongsed clotting time before the bleeding time is affected"
+  },
+  {
+    "question": "The largest hematopoietic cells present in the bone marrow are",
+    "options": ["Osteoblasts", "Pronormoblasts", "Lymphoblasts", "Megakaryocytes"],
+    "correct_answer": "Megakaryocytes"
+  },
+  {
+    "question": "Epigenetics carcinogens do not reactive intermediates and do not react with DNA. | and plastic fibers are epigenetic carcinogens:",
+    "options": ["False.", "True"],
+    "correct_answer": "True"
+  },
+  {
+    "question": "Robertson's cooked meat medium is used to grow",
+    "options": ["Enterbacteria", "Clostridia", "Staphylococci", "Streptococci"],
+    "correct_answer": "Clostridia"
+  },
+  {
+    "question": "Which of the following is the most labile constituents of urine?",
+    "options": ["Uric acid.", "Creatinine.", "Urea.", "Ammonia."],
+    "correct_answer": "Urea."
+  },
+  {
+    "question": "Alkaline phosphatase (ALP)is an enzyme of the.",
+    "options": ["protease class", "amylase class", "esterase class", "hydrolase class of enzymes"],
+    "correct_answer": "hydrolase class of enzymes"
+  },
+  {
+    "question": "The Clinical Laboratory Improvement Act of 1988 applies to which of the following?",
+    "options": ["Laboratories engaged in interstate commerce only", "Physician office laboratories only", "All clinical laboratories", "Hospital laboratories only"],
+    "correct_answer": "All clinical laboratories"
+  },
+  {
+    "question": "Anti-dsDNA antibodies are associated with which of the following?",
+    "options": ["Syphilis", "Systemic lupus erythematosus", "Hemolytic anemia", "CMV infection"],
+    "correct_answer": "Systemic lupus erythematosus"
+  },
+  {
+    "question": "Animmunocompromised patient is suspected of having an infection with A. fumigatus. Which of the following clinical conditions is most likely to occur?",
+    "options": ["Superficial rash", "Invasive infection causing thrombosis and infarction", "Thrush", "Urinary tract infection"],
+    "correct_answer": "Invasive infection causing thrombosis and infarction"
+  },
+  {
+    "question": "Which of the following fractions of bilirubin in high concentrations is associated with kernicterus in newborns?",
+    "options": ["Conjugated bilirubin", "Delta bilirubin", "Unconjugated and delta bilirubin", "Unconjugated bilirubin"],
+    "correct_answer": "Unconjugated bilirubin"
+  },
+  {
+    "question": "A 21-year-old woman visits her obstetrician and is later diagnosed with secondary syphilis. On further questioning, it is determined she is allergic to penicillin. Because Treponema pallidum is known to cross the placenta, treatment is started immediately. Which antibiotic would be most appropriate in this situation?",
+    "options": ["Penicillin G", "Tetracycline", "Erythromycin", "Ceftriaxone"],
+    "correct_answer": "Erythromycin"
+  },
+  {
+    "question": "What is the mode a reflection of in a data set?",
+    "options": ["The average of the lowest and highest numbers in the data set", "The number in the middle of the date set", "The average of the individual values in the data set", "The most frequent number in the data set"],
+    "correct_answer": "The most frequent number in the data set"
+  },
+  {
+    "question": "A peripheral smear review shows mildly anemic sample with target cells and oblong hexagonal crystalloids. What is a possible identity for the crystalloids?",
+    "options": ["Hemoglobin E", "Hemoglobin C", "Hemoglohin S", "Hemoglobin SC"],
+    "correct_answer": "Hemoglobin C"
+  },
+  {
+    "question": "In which of the following typhoid antigens in a Widal set do you expect coarse agglutination?",
+    "options": ["TO", "AH", "TH", "BH"],
+    "correct_answer": "TO"
+  },
+  {
+    "question": "Common neoplasm found in patient with HIV infection:",
+    "options": ["Burkitt's lymphoma", "All", "Kaposi's sarcoma", "Immunoblastic(B-cells) lymphoma"],
+    "correct_answer": "Immunoblastic(B-cells) lymphoma"
+  },
+  {
+    "question": "An initial titer of 4 followed by a subsequent titer of 16 for the same patient, drawn 2 weeks later, is indicative of which of the following?",
+    "options": ["Past exposure", "Convalescence", "Infection", "No exposure"],
+    "correct_answer": "Infection"
+  }
+]

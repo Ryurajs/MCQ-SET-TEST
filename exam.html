@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=yes, viewport-fit=cover">
+    <title>DHAMCQ Exam | Live Simulator</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:opsz,wght@14..32,300;14..32,400;14..32,500;14..32,600;14..32,700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="app-container exam-page-container">
+    <!-- Exam Header -->
+    <div class="exam-header">
+        <div class="exam-title-section">
+            <a href="index.html" id="backToDashboardLink" class="back-btn">
+                <span class="icon-arrow-left"></span> All Tests
+            </a>
+            <h2 id="examSetTitle">MCQs Set 1</h2>
+        </div>
+        <div class="header-right-section">
+            <div class="timer-card" id="timerDisplay">
+                <span id="timeValue">03:00:00</span>
+            </div>
+            <button id="submitTestBtn" class="submit-header-btn">Submit</button>
+            <!-- Hamburger Menu Button (visible on mobile) -->
+            <button id="hamburgerBtn" class="hamburger-btn">
+                <span class="hamburger-line"></span>
+                <span class="hamburger-line"></span>
+                <span class="hamburger-line"></span>
+            </button>
+        </div>
+    </div>
+
+    <!-- Mobile Menu Overlay -->
+    <div id="mobileMenuOverlay" class="mobile-menu-overlay">
+        <div class="mobile-menu-content">
+            <div class="mobile-menu-header">
+                <h3>Menu</h3>
+                <button id="closeMenuBtn" class="close-menu-btn">✕</button>
+            </div>
+            <div class="mobile-menu-items">
+                <div class="mobile-menu-stats">
+                    <div class="mobile-stat">
+                        <span class="stat-label">Answered</span>
+                        <span id="mobileAnsweredCount" class="stat-value">0</span>
+                    </div>
+                    <div class="mobile-stat">
+                        <span class="stat-label">Unanswered</span>
+                        <span id="mobileUnansweredCount" class="stat-value">151</span>
+                    </div>
+                </div>
+                <button id="mobileResetTestBtn" class="mobile-reset-btn">
+                    <span class="icon-reset"></span> Reset Test
+                </button>
+                <button id="mobileSubmitTestBtn" class="mobile-submit-btn">
+                    Submit Test
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Main Exam Content -->
+    <div id="examContentWrapper">
+        <div class="exam-layout">
+            <!-- Left Panel: Question + Options -->
+            <div class="question-panel" id="questionPanel">
+                <div class="question-header">
+                    <span class="q-num" id="qNumber">Question 1</span>
+                    <span class="q-status-badge" id="qStatusBadge">Not Answered</span>
+                </div>
+                <div class="question-text" id="questionText">
+                    Loading...
+                </div>
+                <div class="options-list" id="optionsContainer">
+                    <!-- dynamic options -->
+                </div>
+                <div class="action-buttons">
+                    <button id="saveNextBtn" class="primary-btn">Save & Next</button>
+                    <button id="clearResponseBtn" class="secondary-btn">Clear Response</button>
+                </div>
+                <div class="nav-buttons">
+                    <button id="prevQuestionBtn" class="nav-icon-btn">◀ Previous</button>
+                    <button id="nextQuestionBtn" class="nav-icon-btn">Next ▶</button>
+                </div>
+            </div>
+
+            <!-- Right Panel: Question Navigator (151 buttons) + stats -->
+            <div class="navigator-panel">
+                <div class="stats-summary">
+                    <div class="stat-item"><span class="stat-dot answered-dot"></span> Answered: <span id="answeredCount">0</span></div>
+                    <div class="stat-item"><span class="stat-dot not-answered-dot"></span> Unanswered: <span id="notAnsweredCount">151</span></div>
+                    <div class="stat-item"><span class="stat-dot current-dot"></span> Current</div>
+                </div>
+                <div class="questions-grid" id="questionsGrid">
+                    <!-- 151 buttons will be injected -->
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Review Section (hidden initially) -->
+    <div id="reviewSection" class="review-section" style="display: none;">
+        <div class="review-header">
+            <h2>Test Review</h2>
+            <button id="closeReviewBtn" class="back-btn">Back to Dashboard</button>
+        </div>
+        <div class="review-stats">
+            <div class="review-stat-card">
+                <span class="review-stat-label">Total Score</span>
+                <span class="review-stat-value" id="reviewScore">0</span>
+                <span class="review-stat-label">out of <span id="reviewTotal">151</span></span>
+            </div>
+            <div class="review-stat-card">
+                <span class="review-stat-label">Percentage</span>
+                <span class="review-stat-value" id="reviewPercentage">0%</span>
+            </div>
+            <div class="review-stat-card correct-stat">
+                <span class="review-stat-label">Correct</span>
+                <span class="review-stat-value" id="reviewCorrect">0</span>
+            </div>
+            <div class="review-stat-card wrong-stat">
+                <span class="review-stat-label">Incorrect</span>
+                <span class="review-stat-value" id="reviewWrong">0</span>
+            </div>
+            <div class="review-stat-card skipped-stat">
+                <span class="review-stat-label">Skipped</span>
+                <span class="review-stat-value" id="reviewSkipped">0</span>
+            </div>
+            <div class="review-stat-card">
+                <span class="review-stat-label">Completion Time</span>
+                <span class="review-stat-value" id="completionTime">00:00:00</span>
+            </div>
+        </div>
+        
+        <!-- Filter Tabs -->
+        <div class="review-tabs">
+            <button class="review-tab active" data-filter="all">All Questions</button>
+            <button class="review-tab" data-filter="correct">Correct Answers</button>
+            <button class="review-tab" data-filter="incorrect">Incorrect Answers</button>
+            <button class="review-tab" data-filter="skipped">Skipped Questions</button>
+        </div>
+        
+        <div class="review-questions" id="reviewQuestions">
+            <!-- Review questions will be injected here -->
+        </div>
+    </div>
+</div>
+
+<script src="exam.js"></script>
+</body>
+</html>
