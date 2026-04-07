@@ -23,7 +23,6 @@
                 <span id="timeValue">03:00:00</span>
             </div>
             <button id="submitTestBtn" class="submit-header-btn">Submit</button>
-            <!-- Hamburger Menu Button (visible on mobile) -->
             <button id="hamburgerBtn" class="hamburger-btn">
                 <span class="hamburger-line"></span>
                 <span class="hamburger-line"></span>
@@ -50,6 +49,13 @@
                         <span id="mobileUnansweredCount" class="stat-value">151</span>
                     </div>
                 </div>
+                
+                <!-- Previous Results Comparison Section -->
+                <div class="mobile-previous-results" id="mobilePreviousResults">
+                    <div class="section-title-small">Previous Attempts</div>
+                    <div id="mobileComparisonList" class="comparison-list"></div>
+                </div>
+                
                 <button id="mobileResetTestBtn" class="mobile-reset-btn">
                     <span class="icon-reset"></span> Reset Test
                 </button>
@@ -85,7 +91,7 @@
                 </div>
             </div>
 
-            <!-- Right Panel: Question Navigator (151 buttons) + stats -->
+            <!-- Right Panel: Question Navigator -->
             <div class="navigator-panel">
                 <div class="stats-summary">
                     <div class="stat-item"><span class="stat-dot answered-dot"></span> Answered: <span id="answeredCount">0</span></div>
@@ -105,44 +111,56 @@
             <h2>Test Review</h2>
             <button id="closeReviewBtn" class="back-btn">Back to Dashboard</button>
         </div>
-        <div class="review-stats">
-            <div class="review-stat-card">
-                <span class="review-stat-label">Total Score</span>
-                <span class="review-stat-value" id="reviewScore">0</span>
-                <span class="review-stat-label">out of <span id="reviewTotal">151</span></span>
-            </div>
-            <div class="review-stat-card">
-                <span class="review-stat-label">Percentage</span>
-                <span class="review-stat-value" id="reviewPercentage">0%</span>
-            </div>
-            <div class="review-stat-card correct-stat">
-                <span class="review-stat-label">Correct</span>
-                <span class="review-stat-value" id="reviewCorrect">0</span>
-            </div>
-            <div class="review-stat-card wrong-stat">
-                <span class="review-stat-label">Incorrect</span>
-                <span class="review-stat-value" id="reviewWrong">0</span>
-            </div>
-            <div class="review-stat-card skipped-stat">
-                <span class="review-stat-label">Skipped</span>
-                <span class="review-stat-value" id="reviewSkipped">0</span>
-            </div>
-            <div class="review-stat-card">
-                <span class="review-stat-label">Completion Time</span>
-                <span class="review-stat-value" id="completionTime">00:00:00</span>
-            </div>
-        </div>
         
-        <!-- Filter Tabs -->
-        <div class="review-tabs">
-            <button class="review-tab active" data-filter="all">All Questions</button>
-            <button class="review-tab" data-filter="correct">Correct Answers</button>
-            <button class="review-tab" data-filter="incorrect">Incorrect Answers</button>
-            <button class="review-tab" data-filter="skipped">Skipped Questions</button>
-        </div>
-        
-        <div class="review-questions" id="reviewQuestions">
-            <!-- Review questions will be injected here -->
+        <!-- Comparison Sidebar (Desktop) -->
+        <div class="review-layout">
+            <div class="review-main">
+                <div class="review-stats">
+                    <div class="review-stat-card">
+                        <span class="review-stat-label">Total Score</span>
+                        <span class="review-stat-value" id="reviewScore">0</span>
+                        <span class="review-stat-label">out of <span id="reviewTotal">151</span></span>
+                    </div>
+                    <div class="review-stat-card">
+                        <span class="review-stat-label">Percentage</span>
+                        <span class="review-stat-value" id="reviewPercentage">0%</span>
+                    </div>
+                    <div class="review-stat-card correct-stat">
+                        <span class="review-stat-label">Correct</span>
+                        <span class="review-stat-value" id="reviewCorrect">0</span>
+                    </div>
+                    <div class="review-stat-card wrong-stat">
+                        <span class="review-stat-label">Incorrect</span>
+                        <span class="review-stat-value" id="reviewWrong">0</span>
+                    </div>
+                    <div class="review-stat-card skipped-stat">
+                        <span class="review-stat-label">Skipped</span>
+                        <span class="review-stat-value" id="reviewSkipped">0</span>
+                    </div>
+                    <div class="review-stat-card">
+                        <span class="review-stat-label">Completion Time</span>
+                        <span class="review-stat-value" id="completionTime">00:00:00</span>
+                    </div>
+                </div>
+                
+                <!-- Filter Tabs -->
+                <div class="review-tabs">
+                    <button class="review-tab active" data-filter="all">All Questions</button>
+                    <button class="review-tab" data-filter="correct">Correct Answers</button>
+                    <button class="review-tab" data-filter="incorrect">Incorrect Answers</button>
+                    <button class="review-tab" data-filter="skipped">Skipped Questions</button>
+                </div>
+                
+                <div class="review-questions" id="reviewQuestions"></div>
+            </div>
+            
+            <!-- Comparison Panel (Desktop Right Side) -->
+            <div class="review-comparison" id="reviewComparison">
+                <div class="comparison-header">
+                    <h3>Previous Attempts Comparison</h3>
+                </div>
+                <div id="comparisonList" class="comparison-list"></div>
+            </div>
         </div>
     </div>
 </div>
