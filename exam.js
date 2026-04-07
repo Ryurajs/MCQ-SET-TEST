@@ -1,4 +1,4 @@
-// exam.js - Exam Simulator: Loads selected MCQs Set JSON, handles questions, timer, navigation, scoring, and review
+// exam.js - Complete with JSON Storage and Result Comparison (FIXED)
 
 // ---------- GLOBAL STATE ----------
 let currentQuestions = [];
@@ -12,7 +12,8 @@ let currentSetNumber = 1;
 let isInitialized = false;
 let startTime = null;
 let endTime = null;
-let isMobile = window.innerWidth <= 768;
+let currentSessionId = null;
+let previousResults = [];
 
 // DOM Elements
 const examSetTitle = document.getElementById('examSetTitle');
@@ -29,7 +30,6 @@ const questionsGridDiv = document.getElementById('questionsGrid');
 const answeredCountSpan = document.getElementById('answeredCount');
 const notAnsweredCountSpan = document.getElementById('notAnsweredCount');
 const submitTestBtn = document.getElementById('submitTestBtn');
-const resetTestBtn = document.getElementById('resetTestBtn');
 const examContentWrapper = document.getElementById('examContentWrapper');
 const reviewSection = document.getElementById('reviewSection');
 const backLink = document.getElementById('backToDashboardLink');
@@ -42,6 +42,11 @@ const mobileAnsweredCount = document.getElementById('mobileAnsweredCount');
 const mobileUnansweredCount = document.getElementById('mobileUnansweredCount');
 const questionPanel = document.getElementById('questionPanel');
 
+// Helper: Generate unique session ID
+function generateSessionId() {
+    return 'session_' + Date.now() + '_' + Math.random().toString(36).substr(2, 9);
+}
+
 // Helper: format seconds to HH:MM:SS
 function formatTime(secs) {
     const hours = Math.floor(secs / 3600);
@@ -50,7 +55,127 @@ function formatTime(secs) {
     return `${hours.toString().padStart(2, '0')}:${minutes.toString().padStart(2, '0')}:${seconds.toString().padStart(2, '0')}`;
 }
 
-// Update timer display and handle expiry
+// Load results from localStorage (simulating JSON file)
+function loadResultsFromStorage() {
+    try {
+        const saved = localStorage.getItem('dhamcq_exam_results');
+        if (saved) {
+            const data = JSON.parse(saved);
+            previousResults = data.results || [];
+            console.log('Loaded results:', previousResults.length);
+            return previousResults;
+        } else {
+            // Initialize empty results
+            const emptyData = { results: [] };
+            localStorage.setItem('dhamcq_exam_results', JSON.stringify(emptyData));
+            previousResults = [];
+            return [];
+        }
+    } catch (err) {
+        console.error('Error loading results:', err);
+        previousResults = [];
+        return [];
+    }
+}
+
+// Save result to localStorage (simulating JSON file)
+function saveResultToStorage(resultData) {
+    try {
+        let existingData = { results: [] };
+        const saved = localStorage.getItem('dhamcq_exam_results');
+        if (saved) {
+            existingData = JSON.parse(saved);
+        }
+        
+        // Add new result
+        existingData.results.push(resultData);
+        
+        // Keep only last 20 results per set to avoid too much data
+        const setResults = existingData.results.filter(r => r.setNumber === resultData.setNumber);
+        if (setResults.length > 20) {
+            const toRemove = setResults.slice(0, setResults.length - 20);
+            existingData.results = existingData.results.filter(r => !toRemove.includes(r));
+        }
+        
+        localStorage.setItem('dhamcq_exam_results', JSON.stringify(existingData));
+        previousResults = existingData.results;
+        console.log('Saved result:', resultData);
+        return true;
+    } catch (err) {
+        console.error('Error saving result:', err);
+        return false;
+    }
+}
+
+// Get results for current test set
+function getResultsForCurrentSet() {
+    return previousResults.filter(r => r.setNumber === currentSetNumber);
+}
+
+// Render comparison list
+function renderComparisonList(containerId, isMobile = false) {
+    const setResults = getResultsForCurrentSet();
+    const container = document.getElementById(containerId);
+    if (!container) {
+        console.log('Container not found:', containerId);
+        return;
+    }
+    
+    console.log('Rendering comparison for set', currentSetNumber, 'Results:', setResults.length);
+    
+    if (setResults.length === 0) {
+        container.innerHTML = '<div class="comparison-item">No previous attempts. Complete a test to see comparison.</div>';
+        return;
+    }
+    
+    // Sort by date (newest first)
+    setResults.sort((a, b) => new Date(b.date) - new Date(a.date));
+    
+    let html = '';
+    setResults.forEach((result, idx) => {
+        const isCurrent = result.sessionId === currentSessionId;
+        let comparisonHtml = '';
+        
+        if (idx > 0) {
+            const prevResult = setResults[idx - 1];
+            const diff = parseFloat(result.percentage) - parseFloat(prevResult.percentage);
+            if (diff > 0) {
+                comparisonHtml = `<div class="comparison-badge improved">↑ Improved by ${diff.toFixed(1)}%</div>`;
+            } else if (diff < 0) {
+                comparisonHtml = `<div class="comparison-badge declined">↓ Declined by ${Math.abs(diff).toFixed(1)}%</div>`;
+            } else {
+                comparisonHtml = `<div class="comparison-badge same">→ Same score</div>`;
+            }
+        } else if (setResults.length > 1) {
+            const nextResult = setResults[1];
+            const diff = parseFloat(result.percentage) - parseFloat(nextResult.percentage);
+            if (diff > 0) {
+                comparisonHtml = `<div class="comparison-badge improved">↑ Improved from previous</div>`;
+            } else if (diff < 0) {
+                comparisonHtml = `<div class="comparison-badge declined">↓ Declined from previous</div>`;
+            }
+        }
+        
+        const dateStr = new Date(result.date).toLocaleString();
+        
+        html += `
+            <div class="comparison-item ${isCurrent ? 'current' : ''}">
+                <div class="comparison-date">${dateStr}</div>
+                <div class="comparison-score">Score: ${result.totalScore}/${result.totalQuestions}</div>
+                <div class="comparison-percentage">${result.percentage}%</div>
+                ${comparisonHtml}
+                <div style="font-size:0.7rem; color:#5f7f9e; margin-top:0.3rem;">
+                    ✓${result.correctCount} ✗${result.incorrectCount} ○${result.skippedCount}
+                </div>
+                ${result.isPartial ? '<div style="font-size:0.65rem; color:#f39c12;">(Partial - Reset)</div>' : ''}
+            </div>
+        `;
+    });
+    
+    container.innerHTML = html;
+}
+
+// Update timer display
 function updateTimerDisplay() {
     if (timerDisplaySpan) timerDisplaySpan.innerText = formatTime(timeSeconds);
     if (timeSeconds <= 0 && testActive) {
@@ -92,6 +217,20 @@ function scrollToQuestionOnMobile() {
     }
 }
 
+// Calculate current score without submitting
+function calculateCurrentScore() {
+    let score = 0;
+    for (let i = 0; i < totalQuestions; i++) {
+        const userAns = userAnswers[i];
+        const correct = currentQuestions[i]?.correct_answer;
+        if (userAns && correct && userAns.trim() === correct.trim()) {
+            score++;
+        }
+    }
+    return score;
+}
+
+// Reset test with saving previous result
 function resetTest() {
     if (!testActive) {
         alert("Test has already been submitted. Cannot reset.");
@@ -99,37 +238,71 @@ function resetTest() {
         return;
     }
     
-    const confirmReset = confirm("Are you sure you want to reset the test? All your answers will be cleared and the timer will restart.");
-    if (confirmReset) {
-        // Reset all answers
-        userAnswers = new Array(totalQuestions).fill(null);
-        currentQuestionIdx = 0;
-        timeSeconds = 3 * 3600;
-        testActive = true;
+    // Check if any answers were given
+    const hasAnswers = userAnswers.some(ans => ans !== null && ans !== "");
+    
+    if (hasAnswers) {
+        const confirmReset = confirm("Reset will save your current progress as a previous attempt. Continue?");
+        if (!confirmReset) return;
         
-        // Reset timer display
-        updateTimerDisplay();
-        stopTimer();
-        startTimer();
+        // Calculate current progress
+        const currentScore = calculateCurrentScore();
+        const answeredCount = userAnswers.filter(ans => ans !== null && ans !== "").length;
+        const incorrectCount = answeredCount - currentScore;
+        const skippedCount = totalQuestions - answeredCount;
         
-        // Re-render UI
-        renderCurrentQuestion();
-        renderNavigator();
+        // Save current progress as a result before resetting
+        const resultData = {
+            sessionId: currentSessionId + '_partial_' + Date.now(),
+            setNumber: currentSetNumber,
+            totalScore: currentScore,
+            totalQuestions: totalQuestions,
+            percentage: ((currentScore / totalQuestions) * 100).toFixed(1),
+            correctCount: currentScore,
+            incorrectCount: incorrectCount,
+            skippedCount: skippedCount,
+            completionTime: Math.floor((Date.now() - startTime) / 1000),
+            date: new Date().toISOString(),
+            isPartial: true
+        };
         
-        alert("Test has been reset successfully.");
-        closeMobileMenu();
-        scrollToQuestionOnMobile();
+        saveResultToStorage(resultData);
+        loadResultsFromStorage();
     }
+    
+    // Reset all answers
+    userAnswers = new Array(totalQuestions).fill(null);
+    currentQuestionIdx = 0;
+    timeSeconds = 3 * 3600;
+    testActive = true;
+    currentSessionId = generateSessionId();
+    
+    // Reset timer display
+    updateTimerDisplay();
+    stopTimer();
+    startTimer();
+    
+    // Re-render UI
+    renderCurrentQuestion();
+    renderNavigator();
+    
+    // Refresh comparison displays
+    renderComparisonList('comparisonList');
+    renderComparisonList('mobileComparisonList', true);
+    
+    alert("Test has been reset. Your previous progress has been saved.");
+    closeMobileMenu();
+    scrollToQuestionOnMobile();
 }
 
 // Mobile Menu Functions
 function openMobileMenu() {
     if (mobileMenuOverlay) {
         mobileMenuOverlay.classList.add('active');
-        // Update mobile stats
         const answeredCount = userAnswers.filter(ans => ans !== null && ans !== "").length;
         if (mobileAnsweredCount) mobileAnsweredCount.innerText = answeredCount;
         if (mobileUnansweredCount) mobileUnansweredCount.innerText = totalQuestions - answeredCount;
+        renderComparisonList('mobileComparisonList', true);
     }
 }
 
@@ -139,13 +312,12 @@ function closeMobileMenu() {
     }
 }
 
-// Update the right side navigator buttons & stats
+// Render navigator
 function renderNavigator() {
     const answeredCount = userAnswers.filter(ans => ans !== null && ans !== "").length;
     answeredCountSpan.innerText = answeredCount;
     notAnsweredCountSpan.innerText = totalQuestions - answeredCount;
     
-    // Update mobile stats if menu is open
     if (mobileAnsweredCount) mobileAnsweredCount.innerText = answeredCount;
     if (mobileUnansweredCount) mobileUnansweredCount.innerText = totalQuestions - answeredCount;
     
@@ -169,13 +341,12 @@ function renderNavigator() {
     });
 }
 
-// Update current question display
+// Render current question
 function renderCurrentQuestion() {
     if (!testActive || !currentQuestions.length) return;
     const q = currentQuestions[currentQuestionIdx];
     if (!q) return;
     
-    // Remove any [Demo] text and add question number
     let questionText = q.question;
     questionText = questionText.replace(/\[Demo\]\s*/g, '');
     questionTextDiv.innerText = `${currentQuestionIdx + 1}. ${questionText}`;
@@ -205,8 +376,6 @@ function renderCurrentQuestion() {
     
     qNumberSpan.innerText = `Question ${currentQuestionIdx + 1} of ${totalQuestions}`;
     updateStatusBadge();
-    
-    // Auto-scroll on mobile when question changes
     scrollToQuestionOnMobile();
 }
 
@@ -254,7 +423,7 @@ function clearCurrentResponse() {
     updateStatusBadge();
 }
 
-// Calculate and show full page review
+// Calculate and show review
 function calculateAndShowReview() {
     if (!testActive && reviewSection.style.display === 'block') return;
     
@@ -281,7 +450,6 @@ function calculateAndShowReview() {
             incorrectCount++;
         }
         
-        // Clean question text by removing [Demo] if present
         let cleanQuestionText = currentQuestions[i]?.question || '';
         cleanQuestionText = cleanQuestionText.replace(/\[Demo\]\s*/g, '');
         
@@ -306,13 +474,30 @@ function calculateAndShowReview() {
             isCorrect: isCorrect,
             isSkipped: isSkipped,
             status: status,
-            statusIcon: statusIcon,
-            options: currentQuestions[i]?.options
+            statusIcon: statusIcon
         });
     }
     
     const totalScore = correctCount;
     const percentage = ((totalScore / totalQuestions) * 100).toFixed(1);
+    
+    // Save result to storage
+    const resultData = {
+        sessionId: currentSessionId,
+        setNumber: currentSetNumber,
+        totalScore: totalScore,
+        totalQuestions: totalQuestions,
+        percentage: percentage,
+        correctCount: correctCount,
+        incorrectCount: incorrectCount,
+        skippedCount: skippedCount,
+        completionTime: completionSeconds,
+        date: new Date().toISOString(),
+        isPartial: false
+    };
+    
+    saveResultToStorage(resultData);
+    loadResultsFromStorage();
     
     // Update review stats
     document.getElementById('reviewScore').innerText = totalScore;
@@ -323,16 +508,11 @@ function calculateAndShowReview() {
     document.getElementById('reviewSkipped').innerText = skippedCount;
     document.getElementById('completionTime').innerText = completionTimeFormatted;
     
-    // Store review data globally for filtering
     window.reviewData = reviewData;
-    
-    // Generate review questions HTML
     renderReviewQuestions('all');
-    
-    // Setup filter tabs
     setupFilterTabs();
+    renderComparisonList('comparisonList');
     
-    // Hide exam content, show review
     if (examContentWrapper) examContentWrapper.style.display = 'none';
     if (reviewSection) reviewSection.style.display = 'block';
     testActive = false;
@@ -355,7 +535,7 @@ function renderReviewQuestions(filter) {
     let reviewHtml = '';
     for (const item of filteredData) {
         reviewHtml += `
-            <div class="review-question-item" data-status="${item.status}">
+            <div class="review-question-item">
                 <div class="review-question-text">
                     <span class="review-status-icon ${item.status}">${item.statusIcon}</span>
                     <strong>Question ${item.questionNumber}:</strong> ${escapeHtml(item.questionText)}
@@ -397,7 +577,7 @@ function submitTestHandler() {
         closeMobileMenu();
         return;
     }
-    const confirmSubmit = confirm("Are you sure you want to submit the test? You cannot change answers after submission.");
+    const confirmSubmit = confirm("Are you sure you want to submit the test?");
     if (confirmSubmit) {
         testActive = false;
         stopTimer();
@@ -406,7 +586,7 @@ function submitTestHandler() {
     closeMobileMenu();
 }
 
-// Load specific MCQs Set JSON
+// Load test set
 async function loadTestSet(setNumber) {
     const fileName = `MCQs JSON/MCQs Set ${setNumber}.json`;
     try {
@@ -420,7 +600,7 @@ async function loadTestSet(setNumber) {
         const mockQuestions = [];
         for (let i = 1; i <= 151; i++) {
             mockQuestions.push({
-                question: `Sample Question ${i} for Set ${setNumber}. This is a placeholder question. Please ensure your JSON files are in the "MCQs JSON" folder.`,
+                question: `Sample Question ${i} for Set ${setNumber}.`,
                 options: ["Option A", "Option B", "Option C", "All"],
                 correct_answer: "All"
             });
@@ -443,6 +623,11 @@ async function initExam() {
     
     currentSetNumber = parseInt(selectedSet);
     examSetTitle.innerText = `MCQs Set ${currentSetNumber}`;
+    currentSessionId = generateSessionId();
+    
+    // Load previous results
+    loadResultsFromStorage();
+    console.log('Previous results loaded:', getResultsForCurrentSet().length);
     
     questionTextDiv.innerText = "Loading questions... Please wait.";
     optionsContainer.innerHTML = "";
@@ -476,36 +661,26 @@ if (backLink) {
     });
 }
 
-// Mobile menu event listeners
-if (hamburgerBtn) {
-    hamburgerBtn.addEventListener('click', openMobileMenu);
-}
-if (closeMenuBtn) {
-    closeMenuBtn.addEventListener('click', closeMobileMenu);
-}
-if (mobileResetTestBtn) {
-    mobileResetTestBtn.addEventListener('click', resetTest);
-}
-if (mobileSubmitTestBtn) {
-    mobileSubmitTestBtn.addEventListener('click', submitTestHandler);
-}
+if (hamburgerBtn) hamburgerBtn.addEventListener('click', openMobileMenu);
+if (closeMenuBtn) closeMenuBtn.addEventListener('click', closeMobileMenu);
+if (mobileResetTestBtn) mobileResetTestBtn.addEventListener('click', resetTest);
+if (mobileSubmitTestBtn) mobileSubmitTestBtn.addEventListener('click', submitTestHandler);
+
 // Close menu when clicking outside
 document.addEventListener('click', function(e) {
     if (mobileMenuOverlay && mobileMenuOverlay.classList.contains('active')) {
-        if (!mobileMenuOverlay.contains(e.target) && e.target !== hamburgerBtn && !hamburgerBtn.contains(e.target)) {
+        if (!mobileMenuOverlay.contains(e.target) && e.target !== hamburgerBtn && !hamburgerBtn?.contains(e.target)) {
             closeMobileMenu();
         }
     }
 });
 
-if (resetTestBtn) resetTestBtn.addEventListener('click', resetTest);
 if (saveNextBtn) saveNextBtn.addEventListener('click', saveCurrentAndNext);
 if (clearResponseBtn) clearResponseBtn.addEventListener('click', clearCurrentResponse);
 if (prevQuestionBtn) {
     prevQuestionBtn.addEventListener('click', () => {
         if (currentQuestionIdx > 0) {
             goToQuestion(currentQuestionIdx - 1);
-            scrollToQuestionOnMobile();
         }
     });
 }
@@ -536,11 +711,6 @@ function escapeHtml(str) {
         return m;
     });
 }
-
-// Handle resize to detect mobile/desktop
-window.addEventListener('resize', function() {
-    isMobile = window.innerWidth <= 768;
-});
 
 // Start the exam
 initExam();
